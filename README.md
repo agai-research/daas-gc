@@ -4,12 +4,8 @@ A runnable Python prototype of the DaaS-GC approach: a SCAN-inspired graph
 clustering strategy that partitions a skyway network into sky regions, an
 A\*-based delivery path search that exploits this partitioning, and a
 drone-formation selection algorithm that composes the best set of drone
-services for a delivery request. The prototype also implements three
-baselines used in the paper's experimental validation: **DaaS-HGC**
-(hyper-graph variant), **DaaS-SG** (single, unpartitioned graph), and
-**DaaS-KGE** (knowledge-graph-embedding composition).
+services for a delivery request.
 
-![DaaS-GC pipeline](docs/approach_figure.png)
 
 ## 1. Repository layout
 
@@ -45,29 +41,9 @@ DaaS-GC/
   main_exp.py              builds all instances and runs all experiments
 ```
 
-## 2. Approach summary
 
-| Step | Module | Paper reference |
-|---|---|---|
-| Sky network modeling | `daasgc/sky_network.py` | Section "Proposed Approach" |
-| Structural clustering (core/border/frontier/bridge/outlier) | `daasgc/clustering.py` | Algorithm 1, Eq. eq:similarity / eq:strongconnection / eq:core |
-| Hyper-graph abstraction | `daasgc/clustering.py::build_hypergraph`, `daasgc/hypergraph.py` | Definition "Sky network hyper graph" |
-| Delivery path search (single/two/multi-cluster) | `daasgc/path_search.py` | Algorithm 2, Eq. eq:path-score |
-| Drone formation selection | `daasgc/composition.py` | Algorithm 3, Eq. eq:daas-score |
-| DaaS-KGE baseline | `baselines/daas_kge/` | DaaS_KGE-1.pdf, Sections 4-5 |
-
-Clustering parameters `eps` (similarity threshold) and `mu` (core-station
-degree threshold) are never fixed inside the code: `clustering.calibrate_for_target_k`
-searches a grid to approximate a requested number of clusters `k`, matching
-the calibration procedure used in the "Impact of partitioning" experiment.
-QoS weights (`w1..w4`) come from the delivery request, not from a hardcoded
-constant, so different request profiles (emergency, commercial,
-trust-sensitive, balanced) can be tested directly.
 
 ## 3. Dataset
-
-Built entirely from `data/build_dataset.py`, following Table "Dataset and
-variable settings" in DaaS-GC.tex:
 
 | Variable | Value |
 |---|---|
@@ -83,12 +59,7 @@ variable settings" in DaaS-GC.tex:
 The drone flight metadata schema mirrors the public CMU KiLTHub "Data
 Collected with Package Delivery Quadcopter Drone" dataset (30 outdoor
 drones: battery voltage/current, position, orientation, speed, payload,
-altitude, wind, route). Since this environment has no internet access to
-KiLTHub, a same-schema synthetic stand-in is constructed instead — see
-`implementation_report.docx` for details. The skyway topology (stations,
-pads, segments) has no equivalent public dataset at the required scale
-and is constructed synthetically, exactly as described in the paper's own
-Section 7.1.
+altitude, wind, route).
 
 ## 4. Running the prototype
 
@@ -111,24 +82,6 @@ python daasgc.py --instance data/instances/s100_d20 --method DaaS-SG
 python daasgc.py --instance data/instances/s100_d20 --method DaaS-KGE
 ```
 
-## 5. Reproducing the experiments
-
-```bash
-python main_exp.py
-```
-
-This builds every dataset instance needed (`data/build_instances.py`) and
-runs the four experiment series from Section 7.3 of DaaS-GC.tex, saving:
-- JSON results under `results/`
-- at least three figures per experiment under `figures/`
-
-| Script | Experiment |
-|---|---|
-| `experiments/exp1_user_request.py` | Impact of user request (package weight) |
-| `experiments/exp2_partitioning.py` | Impact of partitioning (number of clusters k) |
-| `experiments/exp3_energy_failure.py` | Energy efficiency and failure rate |
-| `experiments/exp4_computation_time.py` | Computational efficiency |
-
 ## 6. Execution environment
 
 - Python 3.10+
@@ -142,21 +95,3 @@ pip install networkx numpy scipy pandas matplotlib scikit-learn gensim
 
 All scripts were run and verified in this environment end to end
 (`tests/first_test.py` and `main_exp.py` complete without error).
-
-## 7. Notebooks
-
-`notebooks/` contains Colab-ready notebooks:
-- `01_run_all_methods.ipynb` — builds a dataset instance, runs all four
-  methods on a chosen request, shows a results table and inline figures.
-- `02_data_and_results_report.ipynb` — narrative report over the dataset
-  and the experiment results, with explanatory text cells.
-- `03_daas_gc_hgc.ipynb`, `04_daas_sg.ipynb`, `05_daas_kge.ipynb` —
-  one notebook per method, demonstrating it in isolation.
-
-## 8. Notes and limitations
-
-Any adjustment made to an unrealistic algorithmic step (e.g., translating
-a `GOTO` in the paper's pseudocode into an equivalent loop), or any
-dataset substitution, is documented in `implementation_report.docx`, kept
-separate from this README so the latter stays a clean, reusable
-description of the prototype.
