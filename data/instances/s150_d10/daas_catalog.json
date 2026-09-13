@@ -1,0 +1,278 @@
+[
+  {
+    "id": "d1_daas1",
+    "drone_id": "d1",
+    "operation": "food",
+    "price": 21.78
+  },
+  {
+    "id": "d1_daas2",
+    "drone_id": "d1",
+    "operation": "documents",
+    "price": 5.64
+  },
+  {
+    "id": "d1_daas3",
+    "drone_id": "d1",
+    "operation": "medical",
+    "price": 4.15
+  },
+  {
+    "id": "d2_daas1",
+    "drone_id": "d2",
+    "operation": "medical",
+    "price": 17.28
+  },
+  {
+    "id": "d2_daas2",
+    "drone_id": "d2",
+    "operation": "documents",
+    "price": 21.66
+  },
+  {
+    "id": "d2_daas3",
+    "drone_id": "d2",
+    "operation": "parcel",
+    "price": 8.78
+  },
+  {
+    "id": "d2_daas4",
+    "drone_id": "d2",
+    "operation": "parcel",
+    "price": 15.76
+  },
+  {
+    "id": "d2_daas5",
+    "drone_id": "d2",
+    "operation": "documents",
+    "price": 19.35
+  },
+  {
+    "id": "d3_daas1",
+    "drone_id": "d3",
+    "operation": "parcel",
+    "price": 8.39
+  },
+  {
+    "id": "d3_daas2",
+    "drone_id": "d3",
+    "operation": "food",
+    "price": 20.4
+  },
+  {
+    "id": "d3_daas3",
+    "drone_id": "d3",
+    "operation": "parcel",
+    "price": 5.53
+  },
+  {
+    "id": "d3_daas4",
+    "drone_id": "d3",
+    "operation": "parcel",
+    "price": 16.72
+  },
+  {
+    "id": "d3_daas5",
+    "drone_id": "d3",
+    "operation": "documents",
+    "price": 24.79
+  },
+  {
+    "id": "d4_daas1",
+    "drone_id": "d4",
+    "operation": "documents",
+    "price": 17.73
+  },
+  {
+    "id": "d4_daas2",
+    "drone_id": "d4",
+    "operation": "documents",
+    "price": 11.85
+  },
+  {
+    "id": "d4_daas3",
+    "drone_id": "d4",
+    "operation": "food",
+    "price": 23.32
+  },
+  {
+    "id": "d4_daas4",
+    "drone_id": "d4",
+    "operation": "food",
+    "price": 18.06
+  },
+  {
+    "id": "d4_daas5",
+    "drone_id": "d4",
+    "operation": "parcel",
+    "price": 6.34
+  },
+  {
+    "id": "d4_daas6",
+    "drone_id": "d4",
+    "operation": "medical",
+    "price": 12.55
+  },
+  {
+    "id": "d5_daas1",
+    "drone_id": "d5",
+    "operation": "food",
+    "price": 16.48
+  },
+  {
+    "id": "d5_daas2",
+    "drone_id": "d5",
+    "operation": "documents",
+    "price": 12.55
+  },
+  {
+    "id": "d5_daas3",
+    "drone_id": "d5",
+    "operation": "documents",
+    "price": 10.6
+  },
+  {
+    "id": "d5_daas4",
+    "drone_id": "d5",
+    "operation": "parcel",
+    "price": 8.45
+  },
+  {
+    "id": "d5_daas5",
+    "drone_id": "d5",
+    "operation": "medical",
+    "price": 13.81
+  },
+  {
+    "id": "d5_daas6",
+    "drone_id": "d5",
+    "operation": "food",
+    "price": 12.38
+  },
+  {
+    "id": "d6_daas1",
+    "drone_id": "d6",
+    "operation": "documents",
+    "price": 6.85
+  },
+  {
+    "id": "d6_daas2",
+    "drone_id": "d6",
+    "operation": "documents",
+    "price": 10.57
+  },
+  {
+    "id": "d6_daas3",
+    "drone_id": "d6",
+    "operation": "parcel",
+    "price": 24.55
+  },
+  {
+    "id": "d6_daas4",
+    "drone_id": "d6",
+    "operation": "parcel",
+    "price": 21.35
+  },
+  {
+    "id": "d6_daas5",
+    "drone_id": "d6",
+    "operation": "documents",
+    "price": 18.42
+  },
+  {
+    "id": "d6_daas6",
+    "drone_id": "d6",
+    "operation": "food",
+    "price": 12.07
+  },
+  {
+    "id": "d7_daas1",
+    "drone_id": "d7",
+    "operation": "food",
+    "price": 21.54
+  },
+  {
+    "id": "d7_daas2",
+    "drone_id": "d7",
+    "operation": "documents",
+    "price": 21.67
+  },
+  {
+    "id": "d7_daas3",
+    "drone_id": "d7",
+    "operation": "parcel",
+    "price": 14.99
+  },
+  {
+    "id": "d8_daas1",
+    "drone_id": "d8",
+    "operation": "food",
+    "price": 7.58
+  },
+  {
+    "id": "d8_daas2",
+    "drone_id": "d8",
+    "operation": "medical",
+    "price": 5.45
+  },
+  {
+    "id": "d8_daas3",
+    "drone_id": "d8",
+    "operation": "parcel",
+    "price": 24.57
+  },
+  {
+    "id": "d8_daas4",
+    "drone_id": "d8",
+    "operation": "documents",
+    "price": 22.86
+  },
+  {
+    "id": "d8_daas5",
+    "drone_id": "d8",
+    "operation": "parcel",
+    "price": 20.08
+  },
+  {
+    "id": "d9_daas1",
+    "drone_id": "d9",
+    "operation": "parcel",
+    "price": 13.38
+  },
+  {
+    "id": "d9_daas2",
+    "drone_id": "d9",
+    "operation": "medical",
+    "price": 15.55
+  },
+  {
+    "id": "d9_daas3",
+    "drone_id": "d9",
+    "operation": "food",
+    "price": 7.12
+  },
+  {
+    "id": "d10_daas1",
+    "drone_id": "d10",
+    "operation": "documents",
+    "price": 16.41
+  },
+  {
+    "id": "d10_daas2",
+    "drone_id": "d10",
+    "operation": "documents",
+    "price": 4.11
+  },
+  {
+    "id": "d10_daas3",
+    "drone_id": "d10",
+    "operation": "food",
+    "price": 23.98
+  },
+  {
+    "id": "d10_daas4",
+    "drone_id": "d10",
+    "operation": "parcel",
+    "price": 11.39
+  }
+]

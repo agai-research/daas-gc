@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "rs1",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 2.14,
+    "charging_cost": 11.79,
+    "congestion": 0.14
+  },
+  {
+    "id": "rs2",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 3.32,
+    "charging_cost": 8.92,
+    "congestion": 0.02
+  },
+  {
+    "id": "rs3",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 7.34,
+    "charging_cost": 8.87,
+    "congestion": 0.6
+  },
+  {
+    "id": "rs4",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 13.02,
+    "charging_cost": 2.98,
+    "congestion": 0.67
+  },
+  {
+    "id": "rs5",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 10.98,
+    "charging_cost": 8.57,
+    "congestion": 0.06
+  },
+  {
+    "id": "rs6",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 4.96,
+    "charging_cost": 5.9,
+    "congestion": 0.02
+  },
+  {
+    "id": "rs7",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 11.82,
+    "charging_cost": 10.09,
+    "congestion": 0.34
+  },
+  {
+    "id": "rs8",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 14.1,
+    "charging_cost": 6.65,
+    "congestion": 0.16
+  },
+  {
+    "id": "rs9",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 3.14,
+    "charging_cost": 10.27,
+    "congestion": 0.67
+  },
+  {
+    "id": "rs10",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 9.27,
+    "charging_cost": 1.87,
+    "congestion": 0.38
+  },
+  {
+    "id": "rs11",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 1.74,
+    "charging_cost": 8.13,
+    "congestion": 0.19
+  },
+  {
+    "id": "rs12",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 8.29,
+    "charging_cost": 2.76,
+    "congestion": 0.28
+  },
+  {
+    "id": "rs13",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 14.37,
+    "charging_cost": 4.26,
+    "congestion": 0.75
+  },
+  {
+    "id": "rs14",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 1.04,
+    "charging_cost": 5.5,
+    "congestion": 0.23
+  },
+  {
+    "id": "rs15",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 6.55,
+    "charging_cost": 1.02,
+    "congestion": 0.44
+  },
+  {
+    "id": "rs16",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 1.82,
+    "charging_cost": 1.88,
+    "congestion": 0.09
+  },
+  {
+    "id": "rs17",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 14.69,
+    "charging_cost": 1.1,
+    "congestion": 0.18
+  },
+  {
+    "id": "rs18",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 2.85,
+    "charging_cost": 11.01,
+    "congestion": 0.61
+  },
+  {
+    "id": "rs19",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 10.48,
+    "charging_cost": 7.56,
+    "congestion": 0.38
+  },
+  {
+    "id": "rs20",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 10.6,
+    "charging_cost": 1.0,
+    "congestion": 0.72
+  },
+  {
+    "id": "rs21",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 5.0,
+    "charging_cost": 1.72,
+    "congestion": 0.77
+  },
+  {
+    "id": "rs22",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 11.91,
+    "charging_cost": 8.0,
+    "congestion": 0.21
+  },
+  {
+    "id": "rs23",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 10.05,
+    "charging_cost": 5.37,
+    "congestion": 0.46
+  },
+  {
+    "id": "rs24",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 13.24,
+    "charging_cost": 7.15,
+    "congestion": 0.18
+  },
+  {
+    "id": "rs25",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 6.0,
+    "charging_cost": 8.23,
+    "congestion": 0.63
+  },
+  {
+    "id": "rs26",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 9.12,
+    "charging_cost": 3.88,
+    "congestion": 0.98
+  },
+  {
+    "id": "rs27",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 4.86,
+    "charging_cost": 8.71,
+    "congestion": 0.69
+  },
+  {
+    "id": "rs28",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 7.73,
+    "charging_cost": 1.94,
+    "congestion": 0.91
+  },
+  {
+    "id": "rs29",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 5.44,
+    "charging_cost": 9.93,
+    "congestion": 0.91
+  },
+  {
+    "id": "rs30",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 10.87,
+    "charging_cost": 11.89,
+    "congestion": 0.68
+  },
+  {
+    "id": "rs31",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 1.25,
+    "charging_cost": 8.3,
+    "congestion": 0.82
+  },
+  {
+    "id": "rs32",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 7.21,
+    "charging_cost": 1.67,
+    "congestion": 0.04
+  },
+  {
+    "id": "rs33",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 4.99,
+    "charging_cost": 5.54,
+    "congestion": 0.54
+  },
+  {
+    "id": "rs34",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 0.82,
+    "charging_cost": 3.28,
+    "congestion": 0.35
+  },
+  {
+    "id": "rs35",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 7.55,
+    "charging_cost": 9.62,
+    "congestion": 0.15
+  },
+  {
+    "id": "rs36",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 1.11,
+    "charging_cost": 5.52,
+    "congestion": 0.74
+  },
+  {
+    "id": "rs37",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 0.98,
+    "charging_cost": 11.61,
+    "congestion": 0.65
+  },
+  {
+    "id": "rs38",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 5.01,
+    "charging_cost": 7.07,
+    "congestion": 0.8
+  },
+  {
+    "id": "rs39",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 14.49,
+    "charging_cost": 11.55,
+    "congestion": 0.26
+  },
+  {
+    "id": "rs40",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 8.62,
+    "charging_cost": 1.1,
+    "congestion": 0.51
+  },
+  {
+    "id": "rs41",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 0.7,
+    "charging_cost": 3.33,
+    "congestion": 0.19
+  },
+  {
+    "id": "rs42",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 9.19,
+    "charging_cost": 4.26,
+    "congestion": 0.25
+  },
+  {
+    "id": "rs43",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 8.28,
+    "charging_cost": 2.85,
+    "congestion": 0.8
+  },
+  {
+    "id": "rs44",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 2.57,
+    "charging_cost": 6.51,
+    "congestion": 0.02
+  },
+  {
+    "id": "rs45",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 14.79,
+    "charging_cost": 6.37,
+    "congestion": 0.91
+  },
+  {
+    "id": "rs46",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 10.17,
+    "charging_cost": 2.63,
+    "congestion": 0.6
+  },
+  {
+    "id": "rs47",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 14.69,
+    "charging_cost": 3.46,
+    "congestion": 0.54
+  },
+  {
+    "id": "rs48",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 7.46,
+    "charging_cost": 11.92,
+    "congestion": 0.11
+  },
+  {
+    "id": "rs49",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 14.9,
+    "charging_cost": 11.15,
+    "congestion": 0.26
+  },
+  {
+    "id": "rs50",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 14.06,
+    "charging_cost": 10.91,
+    "congestion": 0.7
+  },
+  {
+    "id": "rs51",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 7.55,
+    "charging_cost": 8.32,
+    "congestion": 0.59
+  },
+  {
+    "id": "rs52",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 14.57,
+    "charging_cost": 6.31,
+    "congestion": 0.38
+  },
+  {
+    "id": "rs53",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 3.94,
+    "charging_cost": 9.73,
+    "congestion": 0.46
+  },
+  {
+    "id": "rs54",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 6.24,
+    "charging_cost": 1.07,
+    "congestion": 0.03
+  },
+  {
+    "id": "rs55",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 2.4,
+    "charging_cost": 6.97,
+    "congestion": 0.57
+  },
+  {
+    "id": "rs56",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 4.64,
+    "charging_cost": 2.79,
+    "congestion": 0.23
+  },
+  {
+    "id": "rs57",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 9.21,
+    "charging_cost": 7.01,
+    "congestion": 0.81
+  },
+  {
+    "id": "rs58",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 2.62,
+    "charging_cost": 8.14,
+    "congestion": 1.0
+  },
+  {
+    "id": "rs59",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 8.8,
+    "charging_cost": 11.2,
+    "congestion": 0.96
+  },
+  {
+    "id": "rs60",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 4.5,
+    "charging_cost": 9.41,
+    "congestion": 0.7
+  },
+  {
+    "id": "rs61",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 6.32,
+    "charging_cost": 5.33,
+    "congestion": 0.1
+  },
+  {
+    "id": "rs62",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 0.6,
+    "charging_cost": 7.56,
+    "congestion": 0.32
+  },
+  {
+    "id": "rs63",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 7.16,
+    "charging_cost": 5.23,
+    "congestion": 0.24
+  },
+  {
+    "id": "rs64",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 7.91,
+    "charging_cost": 1.71,
+    "congestion": 0.75
+  },
+  {
+    "id": "rs65",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 10.35,
+    "charging_cost": 5.86,
+    "congestion": 0.85
+  },
+  {
+    "id": "rs66",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 5.23,
+    "charging_cost": 1.68,
+    "congestion": 0.3
+  },
+  {
+    "id": "rs67",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 10.36,
+    "charging_cost": 6.89,
+    "congestion": 0.16
+  },
+  {
+    "id": "rs68",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 8.01,
+    "charging_cost": 2.9,
+    "congestion": 0.54
+  },
+  {
+    "id": "rs69",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 5.61,
+    "charging_cost": 2.35,
+    "congestion": 0.67
+  },
+  {
+    "id": "rs70",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 13.98,
+    "charging_cost": 6.25,
+    "congestion": 0.5
+  },
+  {
+    "id": "rs71",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 11.08,
+    "charging_cost": 6.49,
+    "congestion": 0.5
+  },
+  {
+    "id": "rs72",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 11.8,
+    "charging_cost": 9.9,
+    "congestion": 0.34
+  },
+  {
+    "id": "rs73",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 13.64,
+    "charging_cost": 9.47,
+    "congestion": 0.54
+  },
+  {
+    "id": "rs74",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 6.0,
+    "charging_cost": 9.72,
+    "congestion": 0.95
+  },
+  {
+    "id": "rs75",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 13.02,
+    "charging_cost": 2.44,
+    "congestion": 0.43
+  },
+  {
+    "id": "rs76",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 10.09,
+    "charging_cost": 3.1,
+    "congestion": 0.5
+  },
+  {
+    "id": "rs77",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 14.58,
+    "charging_cost": 5.45,
+    "congestion": 0.01
+  },
+  {
+    "id": "rs78",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 5.23,
+    "charging_cost": 5.58,
+    "congestion": 0.35
+  },
+  {
+    "id": "rs79",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 11.7,
+    "charging_cost": 1.57,
+    "congestion": 0.25
+  },
+  {
+    "id": "rs80",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 11.63,
+    "charging_cost": 6.48,
+    "congestion": 0.84
+  },
+  {
+    "id": "rs81",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 5.31,
+    "charging_cost": 10.04,
+    "congestion": 0.4
+  },
+  {
+    "id": "rs82",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 3.94,
+    "charging_cost": 1.96,
+    "congestion": 0.59
+  },
+  {
+    "id": "rs83",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 0.98,
+    "charging_cost": 5.14,
+    "congestion": 0.23
+  },
+  {
+    "id": "rs84",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 6.27,
+    "charging_cost": 7.68,
+    "congestion": 0.32
+  },
+  {
+    "id": "rs85",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 11.43,
+    "charging_cost": 4.05,
+    "congestion": 0.09
+  },
+  {
+    "id": "rs86",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 9.44,
+    "charging_cost": 9.6,
+    "congestion": 0.53
+  },
+  {
+    "id": "rs87",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 11.05,
+    "charging_cost": 1.63,
+    "congestion": 0.83
+  },
+  {
+    "id": "rs88",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 5.44,
+    "charging_cost": 2.43,
+    "congestion": 0.46
+  },
+  {
+    "id": "rs89",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 6.33,
+    "charging_cost": 10.02,
+    "congestion": 0.13
+  },
+  {
+    "id": "rs90",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 7.25,
+    "charging_cost": 9.93,
+    "congestion": 0.99
+  },
+  {
+    "id": "rs91",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 9.91,
+    "charging_cost": 7.55,
+    "congestion": 0.63
+  },
+  {
+    "id": "rs92",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 9.45,
+    "charging_cost": 11.93,
+    "congestion": 0.09
+  },
+  {
+    "id": "rs93",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 2.39,
+    "charging_cost": 1.81,
+    "congestion": 0.75
+  },
+  {
+    "id": "rs94",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 1.39,
+    "charging_cost": 9.96,
+    "congestion": 0.63
+  },
+  {
+    "id": "rs95",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 10.1,
+    "charging_cost": 10.16,
+    "congestion": 0.86
+  },
+  {
+    "id": "rs96",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 2.89,
+    "charging_cost": 10.38,
+    "congestion": 0.0
+  },
+  {
+    "id": "rs97",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 11.81,
+    "charging_cost": 10.86,
+    "congestion": 0.93
+  },
+  {
+    "id": "rs98",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 5.86,
+    "charging_cost": 9.21,
+    "congestion": 0.26
+  },
+  {
+    "id": "rs99",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 5.04,
+    "charging_cost": 3.68,
+    "congestion": 0.78
+  },
+  {
+    "id": "rs100",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 7.13,
+    "charging_cost": 3.13,
+    "congestion": 0.91
+  },
+  {
+    "id": "rs101",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 8.83,
+    "charging_cost": 8.8,
+    "congestion": 0.08
+  },
+  {
+    "id": "rs102",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 10.31,
+    "charging_cost": 6.25,
+    "congestion": 0.26
+  },
+  {
+    "id": "rs103",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 2.15,
+    "charging_cost": 10.57,
+    "congestion": 0.15
+  },
+  {
+    "id": "rs104",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 5.2,
+    "charging_cost": 8.86,
+    "congestion": 0.15
+  },
+  {
+    "id": "rs105",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 12.76,
+    "charging_cost": 3.03,
+    "congestion": 0.48
+  },
+  {
+    "id": "rs106",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 14.49,
+    "charging_cost": 11.07,
+    "congestion": 0.78
+  },
+  {
+    "id": "rs107",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 14.37,
+    "charging_cost": 1.18,
+    "congestion": 0.7
+  },
+  {
+    "id": "rs108",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 6.61,
+    "charging_cost": 9.53,
+    "congestion": 0.11
+  },
+  {
+    "id": "rs109",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 8.9,
+    "charging_cost": 3.76,
+    "congestion": 0.81
+  },
+  {
+    "id": "rs110",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 7.31,
+    "charging_cost": 10.89,
+    "congestion": 0.81
+  },
+  {
+    "id": "rs111",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 4.34,
+    "charging_cost": 2.48,
+    "congestion": 0.75
+  },
+  {
+    "id": "rs112",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 10.25,
+    "charging_cost": 11.58,
+    "congestion": 0.91
+  },
+  {
+    "id": "rs113",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 5.8,
+    "charging_cost": 4.77,
+    "congestion": 0.45
+  },
+  {
+    "id": "rs114",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 10.91,
+    "charging_cost": 9.51,
+    "congestion": 0.76
+  },
+  {
+    "id": "rs115",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 11.26,
+    "charging_cost": 1.49,
+    "congestion": 0.31
+  },
+  {
+    "id": "rs116",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 11.71,
+    "charging_cost": 6.79,
+    "congestion": 0.69
+  },
+  {
+    "id": "rs117",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 5.35,
+    "charging_cost": 5.49,
+    "congestion": 0.59
+  },
+  {
+    "id": "rs118",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 14.36,
+    "charging_cost": 7.28,
+    "congestion": 0.33
+  },
+  {
+    "id": "rs119",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 11.82,
+    "charging_cost": 5.71,
+    "congestion": 0.28
+  },
+  {
+    "id": "rs120",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 8.78,
+    "charging_cost": 2.47,
+    "congestion": 0.62
+  },
+  {
+    "id": "rs121",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 13.48,
+    "charging_cost": 5.06,
+    "congestion": 0.02
+  },
+  {
+    "id": "rs122",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 6.14,
+    "charging_cost": 10.79,
+    "congestion": 0.33
+  },
+  {
+    "id": "rs123",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 9.14,
+    "charging_cost": 8.92,
+    "congestion": 0.5
+  },
+  {
+    "id": "rs124",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 2.11,
+    "charging_cost": 6.88,
+    "congestion": 0.54
+  },
+  {
+    "id": "rs125",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 14.77,
+    "charging_cost": 4.02,
+    "congestion": 0.83
+  },
+  {
+    "id": "rs126",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 10.77,
+    "charging_cost": 4.0,
+    "congestion": 0.02
+  },
+  {
+    "id": "rs127",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 3.51,
+    "charging_cost": 9.84,
+    "congestion": 0.68
+  },
+  {
+    "id": "rs128",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 10.85,
+    "charging_cost": 6.98,
+    "congestion": 0.75
+  },
+  {
+    "id": "rs129",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 9.72,
+    "charging_cost": 9.98,
+    "congestion": 0.17
+  },
+  {
+    "id": "rs130",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 0.81,
+    "charging_cost": 4.18,
+    "congestion": 0.17
+  },
+  {
+    "id": "rs131",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 4.56,
+    "charging_cost": 10.28,
+    "congestion": 0.86
+  },
+  {
+    "id": "rs132",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 3.32,
+    "charging_cost": 8.56,
+    "congestion": 0.28
+  },
+  {
+    "id": "rs133",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 4.27,
+    "charging_cost": 1.01,
+    "congestion": 0.62
+  },
+  {
+    "id": "rs134",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 8.35,
+    "charging_cost": 9.82,
+    "congestion": 0.55
+  },
+  {
+    "id": "rs135",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 0.8,
+    "charging_cost": 7.83,
+    "congestion": 0.01
+  },
+  {
+    "id": "rs136",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 7.54,
+    "charging_cost": 6.6,
+    "congestion": 0.6
+  },
+  {
+    "id": "rs137",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 14.11,
+    "charging_cost": 11.61,
+    "congestion": 0.76
+  },
+  {
+    "id": "rs138",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 11.72,
+    "charging_cost": 10.79,
+    "congestion": 0.39
+  },
+  {
+    "id": "rs139",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 11.29,
+    "charging_cost": 3.23,
+    "congestion": 0.11
+  },
+  {
+    "id": "rs140",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 14.49,
+    "charging_cost": 6.26,
+    "congestion": 0.78
+  },
+  {
+    "id": "rs141",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 8.09,
+    "charging_cost": 4.85,
+    "congestion": 0.4
+  },
+  {
+    "id": "rs142",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 4.94,
+    "charging_cost": 7.03,
+    "congestion": 0.86
+  },
+  {
+    "id": "rs143",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 11.61,
+    "charging_cost": 9.54,
+    "congestion": 0.28
+  },
+  {
+    "id": "rs144",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 7.57,
+    "charging_cost": 7.58,
+    "congestion": 0.62
+  },
+  {
+    "id": "rs145",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 10.94,
+    "charging_cost": 9.38,
+    "congestion": 0.54
+  },
+  {
+    "id": "rs146",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 12.2,
+    "charging_cost": 6.25,
+    "congestion": 0.51
+  },
+  {
+    "id": "rs147",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 0.53,
+    "charging_cost": 4.62,
+    "congestion": 0.48
+  },
+  {
+    "id": "rs148",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 4.72,
+    "charging_cost": 7.38,
+    "congestion": 0.26
+  },
+  {
+    "id": "rs149",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 11.53,
+    "charging_cost": 5.09,
+    "congestion": 0.84
+  },
+  {
+    "id": "rs150",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 14.52,
+    "charging_cost": 8.97,
+    "congestion": 0.11
+  },
+  {
+    "id": "rs151",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 7.4,
+    "charging_cost": 2.56,
+    "congestion": 0.61
+  },
+  {
+    "id": "rs152",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 5.98,
+    "charging_cost": 5.58,
+    "congestion": 0.56
+  },
+  {
+    "id": "rs153",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 12.06,
+    "charging_cost": 3.13,
+    "congestion": 0.6
+  },
+  {
+    "id": "rs154",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 5.0,
+    "charging_cost": 7.74,
+    "congestion": 0.65
+  },
+  {
+    "id": "rs155",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 1.31,
+    "charging_cost": 8.83,
+    "congestion": 0.03
+  },
+  {
+    "id": "rs156",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 11.81,
+    "charging_cost": 7.23,
+    "congestion": 0.65
+  },
+  {
+    "id": "rs157",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 5.07,
+    "charging_cost": 8.67,
+    "congestion": 0.28
+  },
+  {
+    "id": "rs158",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 4.91,
+    "charging_cost": 2.5,
+    "congestion": 0.22
+  },
+  {
+    "id": "rs159",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 7.4,
+    "charging_cost": 10.57,
+    "congestion": 0.35
+  },
+  {
+    "id": "rs160",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 9.15,
+    "charging_cost": 1.04,
+    "congestion": 0.78
+  },
+  {
+    "id": "rs161",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 8.88,
+    "charging_cost": 8.18,
+    "congestion": 0.11
+  },
+  {
+    "id": "rs162",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 4.71,
+    "charging_cost": 3.31,
+    "congestion": 0.69
+  },
+  {
+    "id": "rs163",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 1.51,
+    "charging_cost": 2.96,
+    "congestion": 0.05
+  },
+  {
+    "id": "rs164",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 11.76,
+    "charging_cost": 6.59,
+    "congestion": 0.34
+  },
+  {
+    "id": "rs165",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 9.81,
+    "charging_cost": 11.93,
+    "congestion": 0.19
+  },
+  {
+    "id": "rs166",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 12.5,
+    "charging_cost": 3.18,
+    "congestion": 0.9
+  },
+  {
+    "id": "rs167",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 9.27,
+    "charging_cost": 2.28,
+    "congestion": 0.04
+  },
+  {
+    "id": "rs168",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 10.25,
+    "charging_cost": 5.39,
+    "congestion": 0.61
+  },
+  {
+    "id": "rs169",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 5.74,
+    "charging_cost": 6.74,
+    "congestion": 0.35
+  },
+  {
+    "id": "rs170",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 0.64,
+    "charging_cost": 7.22,
+    "congestion": 0.02
+  },
+  {
+    "id": "rs171",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 0.74,
+    "charging_cost": 7.45,
+    "congestion": 0.31
+  },
+  {
+    "id": "rs172",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 6.31,
+    "charging_cost": 1.08,
+    "congestion": 0.53
+  },
+  {
+    "id": "rs173",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 6.49,
+    "charging_cost": 3.27,
+    "congestion": 0.4
+  },
+  {
+    "id": "rs174",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 7.48,
+    "charging_cost": 8.88,
+    "congestion": 0.31
+  },
+  {
+    "id": "rs175",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 6.09,
+    "charging_cost": 5.45,
+    "congestion": 0.16
+  },
+  {
+    "id": "rs176",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 4.79,
+    "charging_cost": 8.28,
+    "congestion": 0.64
+  },
+  {
+    "id": "rs177",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 14.17,
+    "charging_cost": 4.67,
+    "congestion": 0.98
+  },
+  {
+    "id": "rs178",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 11.87,
+    "charging_cost": 1.33,
+    "congestion": 0.32
+  },
+  {
+    "id": "rs179",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 7.74,
+    "charging_cost": 10.17,
+    "congestion": 0.48
+  },
+  {
+    "id": "rs180",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 8.16,
+    "charging_cost": 6.84,
+    "congestion": 0.49
+  },
+  {
+    "id": "rs181",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 1.96,
+    "charging_cost": 7.11,
+    "congestion": 0.83
+  },
+  {
+    "id": "rs182",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 14.95,
+    "charging_cost": 1.63,
+    "congestion": 0.17
+  },
+  {
+    "id": "rs183",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 8.08,
+    "charging_cost": 4.22,
+    "congestion": 0.86
+  },
+  {
+    "id": "rs184",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 8.82,
+    "charging_cost": 2.07,
+    "congestion": 0.04
+  },
+  {
+    "id": "rs185",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 9.88,
+    "charging_cost": 1.34,
+    "congestion": 0.88
+  },
+  {
+    "id": "rs186",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 14.06,
+    "charging_cost": 7.7,
+    "congestion": 0.05
+  },
+  {
+    "id": "rs187",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 8.66,
+    "charging_cost": 4.52,
+    "congestion": 0.77
+  },
+  {
+    "id": "rs188",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 11.44,
+    "charging_cost": 6.59,
+    "congestion": 0.56
+  },
+  {
+    "id": "rs189",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 5.78,
+    "charging_cost": 4.89,
+    "congestion": 0.22
+  },
+  {
+    "id": "rs190",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 3.45,
+    "charging_cost": 8.02,
+    "congestion": 0.09
+  },
+  {
+    "id": "rs191",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 6.81,
+    "charging_cost": 4.92,
+    "congestion": 0.03
+  },
+  {
+    "id": "rs192",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 11.56,
+    "charging_cost": 1.26,
+    "congestion": 0.55
+  },
+  {
+    "id": "rs193",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 11.84,
+    "charging_cost": 2.89,
+    "congestion": 0.7
+  },
+  {
+    "id": "rs194",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 6.23,
+    "charging_cost": 6.96,
+    "congestion": 0.4
+  },
+  {
+    "id": "rs195",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 14.76,
+    "charging_cost": 10.56,
+    "congestion": 0.86
+  },
+  {
+    "id": "rs196",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 1.07,
+    "charging_cost": 2.69,
+    "congestion": 0.63
+  },
+  {
+    "id": "rs197",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 5.03,
+    "charging_cost": 5.23,
+    "congestion": 0.98
+  },
+  {
+    "id": "rs198",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 11.76,
+    "charging_cost": 11.09,
+    "congestion": 0.47
+  },
+  {
+    "id": "rs199",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 10.59,
+    "charging_cost": 2.97,
+    "congestion": 0.41
+  },
+  {
+    "id": "rs200",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 10.11,
+    "charging_cost": 9.77,
+    "congestion": 0.41
+  },
+  {
+    "id": "rs201",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 0.78,
+    "charging_cost": 5.1,
+    "congestion": 0.13
+  },
+  {
+    "id": "rs202",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 5.46,
+    "charging_cost": 7.45,
+    "congestion": 0.22
+  },
+  {
+    "id": "rs203",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 13.32,
+    "charging_cost": 3.86,
+    "congestion": 0.41
+  },
+  {
+    "id": "rs204",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 9.15,
+    "charging_cost": 8.98,
+    "congestion": 0.29
+  },
+  {
+    "id": "rs205",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 5.32,
+    "charging_cost": 9.93,
+    "congestion": 0.47
+  },
+  {
+    "id": "rs206",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 5.48,
+    "charging_cost": 8.21,
+    "congestion": 0.15
+  },
+  {
+    "id": "rs207",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 7.11,
+    "charging_cost": 10.78,
+    "congestion": 0.89
+  },
+  {
+    "id": "rs208",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 10.04,
+    "charging_cost": 7.01,
+    "congestion": 0.14
+  },
+  {
+    "id": "rs209",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 10.86,
+    "charging_cost": 10.36,
+    "congestion": 0.54
+  },
+  {
+    "id": "rs210",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 10.54,
+    "charging_cost": 3.05,
+    "congestion": 0.59
+  },
+  {
+    "id": "rs211",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 1.25,
+    "charging_cost": 11.08,
+    "congestion": 0.3
+  },
+  {
+    "id": "rs212",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 8.13,
+    "charging_cost": 9.44,
+    "congestion": 0.83
+  },
+  {
+    "id": "rs213",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 9.12,
+    "charging_cost": 1.35,
+    "congestion": 0.86
+  },
+  {
+    "id": "rs214",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 9.17,
+    "charging_cost": 3.4,
+    "congestion": 0.86
+  },
+  {
+    "id": "rs215",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 10.18,
+    "charging_cost": 4.52,
+    "congestion": 0.43
+  },
+  {
+    "id": "rs216",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 3.1,
+    "charging_cost": 2.43,
+    "congestion": 0.93
+  },
+  {
+    "id": "rs217",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 8.09,
+    "charging_cost": 9.47,
+    "congestion": 0.86
+  },
+  {
+    "id": "rs218",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 20,
+    "waiting_time": 13.44,
+    "charging_cost": 5.7,
+    "congestion": 0.76
+  },
+  {
+    "id": "rs219",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 6.89,
+    "charging_cost": 2.71,
+    "congestion": 0.88
+  },
+  {
+    "id": "rs220",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 5.58,
+    "charging_cost": 6.66,
+    "congestion": 0.12
+  },
+  {
+    "id": "rs221",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 11.35,
+    "charging_cost": 7.64,
+    "congestion": 0.72
+  },
+  {
+    "id": "rs222",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 5.16,
+    "charging_cost": 8.17,
+    "congestion": 0.66
+  },
+  {
+    "id": "rs223",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 7.63,
+    "charging_cost": 5.23,
+    "congestion": 0.07
+  },
+  {
+    "id": "rs224",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 1.53,
+    "charging_cost": 10.83,
+    "congestion": 0.33
+  },
+  {
+    "id": "rs225",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 9.68,
+    "charging_cost": 6.66,
+    "congestion": 0.92
+  },
+  {
+    "id": "rs226",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 4.77,
+    "charging_cost": 6.89,
+    "congestion": 0.21
+  },
+  {
+    "id": "rs227",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 9.63,
+    "charging_cost": 6.89,
+    "congestion": 0.52
+  },
+  {
+    "id": "rs228",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 9.63,
+    "charging_cost": 3.47,
+    "congestion": 0.47
+  },
+  {
+    "id": "rs229",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 7.88,
+    "charging_cost": 9.01,
+    "congestion": 0.88
+  },
+  {
+    "id": "rs230",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 1.89,
+    "charging_cost": 3.21,
+    "congestion": 0.7
+  },
+  {
+    "id": "rs231",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 5,
+    "waiting_time": 12.23,
+    "charging_cost": 6.7,
+    "congestion": 0.9
+  },
+  {
+    "id": "rs232",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 9.95,
+    "charging_cost": 2.74,
+    "congestion": 0.81
+  },
+  {
+    "id": "rs233",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 3.61,
+    "charging_cost": 7.79,
+    "congestion": 0.3
+  },
+  {
+    "id": "rs234",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 5,
+    "waiting_time": 9.54,
+    "charging_cost": 10.55,
+    "congestion": 0.54
+  },
+  {
+    "id": "rs235",
+    "n_pads": 4,
+    "pad_type": "fixed",
+    "charging_voltage": 10,
+    "waiting_time": 12.65,
+    "charging_cost": 9.31,
+    "congestion": 0.19
+  },
+  {
+    "id": "rs236",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 6.08,
+    "charging_cost": 1.53,
+    "congestion": 0.41
+  },
+  {
+    "id": "rs237",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 8.46,
+    "charging_cost": 9.81,
+    "congestion": 0.76
+  },
+  {
+    "id": "rs238",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 0.86,
+    "charging_cost": 3.7,
+    "congestion": 0.69
+  },
+  {
+    "id": "rs239",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 13.16,
+    "charging_cost": 5.18,
+    "congestion": 0.65
+  },
+  {
+    "id": "rs240",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 0.61,
+    "charging_cost": 10.2,
+    "congestion": 0.73
+  },
+  {
+    "id": "rs241",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 5.89,
+    "charging_cost": 10.47,
+    "congestion": 0.36
+  },
+  {
+    "id": "rs242",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 10.26,
+    "charging_cost": 4.16,
+    "congestion": 0.16
+  },
+  {
+    "id": "rs243",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 4.87,
+    "charging_cost": 1.01,
+    "congestion": 0.15
+  },
+  {
+    "id": "rs244",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 10,
+    "waiting_time": 7.82,
+    "charging_cost": 10.42,
+    "congestion": 0.82
+  },
+  {
+    "id": "rs245",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 5,
+    "waiting_time": 5.0,
+    "charging_cost": 8.91,
+    "congestion": 0.32
+  },
+  {
+    "id": "rs246",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 8.94,
+    "charging_cost": 1.08,
+    "congestion": 0.5
+  },
+  {
+    "id": "rs247",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 20,
+    "waiting_time": 6.42,
+    "charging_cost": 2.58,
+    "congestion": 0.78
+  },
+  {
+    "id": "rs248",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 11.6,
+    "charging_cost": 2.78,
+    "congestion": 0.0
+  },
+  {
+    "id": "rs249",
+    "n_pads": 4,
+    "pad_type": "mobile",
+    "charging_voltage": 10,
+    "waiting_time": 14.54,
+    "charging_cost": 11.08,
+    "congestion": 0.32
+  },
+  {
+    "id": "rs250",
+    "n_pads": 4,
+    "pad_type": "wireless",
+    "charging_voltage": 20,
+    "waiting_time": 7.34,
+    "charging_cost": 8.39,
+    "congestion": 0.09
+  }
+]

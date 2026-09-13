@@ -1,0 +1,3566 @@
+[
+  {
+    "source": "rs1",
+    "target": "rs130",
+    "distance": 1.64,
+    "cost": 0.24
+  },
+  {
+    "source": "rs1",
+    "target": "rs93",
+    "distance": 3.52,
+    "cost": 0.43
+  },
+  {
+    "source": "rs1",
+    "target": "rs127",
+    "distance": 9.34,
+    "cost": 1.75
+  },
+  {
+    "source": "rs1",
+    "target": "rs124",
+    "distance": 10.87,
+    "cost": 1.31
+  },
+  {
+    "source": "rs1",
+    "target": "rs35",
+    "distance": 6.69,
+    "cost": 1.3
+  },
+  {
+    "source": "rs2",
+    "target": "rs21",
+    "distance": 8.15,
+    "cost": 1.47
+  },
+  {
+    "source": "rs2",
+    "target": "rs39",
+    "distance": 5.77,
+    "cost": 0.99
+  },
+  {
+    "source": "rs176",
+    "target": "rs2",
+    "distance": 8.1,
+    "cost": 0.76
+  },
+  {
+    "source": "rs149",
+    "target": "rs2",
+    "distance": 6.98,
+    "cost": 0.64
+  },
+  {
+    "source": "rs2",
+    "target": "rs44",
+    "distance": 3.22,
+    "cost": 0.64
+  },
+  {
+    "source": "rs172",
+    "target": "rs3",
+    "distance": 3.81,
+    "cost": 0.45
+  },
+  {
+    "source": "rs190",
+    "target": "rs3",
+    "distance": 6.69,
+    "cost": 0.56
+  },
+  {
+    "source": "rs179",
+    "target": "rs3",
+    "distance": 8.3,
+    "cost": 1.19
+  },
+  {
+    "source": "rs3",
+    "target": "rs32",
+    "distance": 5.34,
+    "cost": 0.95
+  },
+  {
+    "source": "rs3",
+    "target": "rs68",
+    "distance": 3.98,
+    "cost": 0.78
+  },
+  {
+    "source": "rs4",
+    "target": "rs41",
+    "distance": 11.53,
+    "cost": 1.77
+  },
+  {
+    "source": "rs181",
+    "target": "rs4",
+    "distance": 4.96,
+    "cost": 0.97
+  },
+  {
+    "source": "rs4",
+    "target": "rs67",
+    "distance": 4.67,
+    "cost": 0.8
+  },
+  {
+    "source": "rs188",
+    "target": "rs4",
+    "distance": 7.28,
+    "cost": 0.6
+  },
+  {
+    "source": "rs147",
+    "target": "rs4",
+    "distance": 8.47,
+    "cost": 0.71
+  },
+  {
+    "source": "rs43",
+    "target": "rs5",
+    "distance": 8.4,
+    "cost": 0.85
+  },
+  {
+    "source": "rs175",
+    "target": "rs5",
+    "distance": 10.85,
+    "cost": 1.49
+  },
+  {
+    "source": "rs159",
+    "target": "rs5",
+    "distance": 5.87,
+    "cost": 0.87
+  },
+  {
+    "source": "rs5",
+    "target": "rs70",
+    "distance": 5.84,
+    "cost": 0.7
+  },
+  {
+    "source": "rs139",
+    "target": "rs5",
+    "distance": 9.28,
+    "cost": 1.09
+  },
+  {
+    "source": "rs192",
+    "target": "rs6",
+    "distance": 7.82,
+    "cost": 1.09
+  },
+  {
+    "source": "rs162",
+    "target": "rs6",
+    "distance": 3.67,
+    "cost": 0.66
+  },
+  {
+    "source": "rs6",
+    "target": "rs65",
+    "distance": 1.12,
+    "cost": 0.17
+  },
+  {
+    "source": "rs103",
+    "target": "rs6",
+    "distance": 4.94,
+    "cost": 0.65
+  },
+  {
+    "source": "rs145",
+    "target": "rs6",
+    "distance": 10.22,
+    "cost": 1.33
+  },
+  {
+    "source": "rs112",
+    "target": "rs7",
+    "distance": 8.77,
+    "cost": 0.86
+  },
+  {
+    "source": "rs142",
+    "target": "rs7",
+    "distance": 8.33,
+    "cost": 1.49
+  },
+  {
+    "source": "rs7",
+    "target": "rs81",
+    "distance": 2.84,
+    "cost": 0.25
+  },
+  {
+    "source": "rs34",
+    "target": "rs7",
+    "distance": 4.78,
+    "cost": 0.93
+  },
+  {
+    "source": "rs131",
+    "target": "rs7",
+    "distance": 1.09,
+    "cost": 0.21
+  },
+  {
+    "source": "rs8",
+    "target": "rs9",
+    "distance": 8.77,
+    "cost": 1.57
+  },
+  {
+    "source": "rs63",
+    "target": "rs8",
+    "distance": 8.29,
+    "cost": 1.62
+  },
+  {
+    "source": "rs141",
+    "target": "rs8",
+    "distance": 10.3,
+    "cost": 0.83
+  },
+  {
+    "source": "rs148",
+    "target": "rs8",
+    "distance": 1.09,
+    "cost": 0.13
+  },
+  {
+    "source": "rs8",
+    "target": "rs91",
+    "distance": 2.45,
+    "cost": 0.22
+  },
+  {
+    "source": "rs63",
+    "target": "rs9",
+    "distance": 3.49,
+    "cost": 0.47
+  },
+  {
+    "source": "rs141",
+    "target": "rs9",
+    "distance": 11.53,
+    "cost": 1.54
+  },
+  {
+    "source": "rs148",
+    "target": "rs9",
+    "distance": 9.01,
+    "cost": 1.71
+  },
+  {
+    "source": "rs9",
+    "target": "rs91",
+    "distance": 5.64,
+    "cost": 0.61
+  },
+  {
+    "source": "rs10",
+    "target": "rs12",
+    "distance": 7.44,
+    "cost": 1.19
+  },
+  {
+    "source": "rs10",
+    "target": "rs184",
+    "distance": 9.65,
+    "cost": 1.04
+  },
+  {
+    "source": "rs10",
+    "target": "rs95",
+    "distance": 9.83,
+    "cost": 1.89
+  },
+  {
+    "source": "rs10",
+    "target": "rs140",
+    "distance": 7.92,
+    "cost": 1.31
+  },
+  {
+    "source": "rs10",
+    "target": "rs17",
+    "distance": 8.46,
+    "cost": 0.77
+  },
+  {
+    "source": "rs11",
+    "target": "rs189",
+    "distance": 8.0,
+    "cost": 0.67
+  },
+  {
+    "source": "rs11",
+    "target": "rs171",
+    "distance": 8.15,
+    "cost": 1.5
+  },
+  {
+    "source": "rs11",
+    "target": "rs60",
+    "distance": 2.4,
+    "cost": 0.28
+  },
+  {
+    "source": "rs11",
+    "target": "rs110",
+    "distance": 3.82,
+    "cost": 0.54
+  },
+  {
+    "source": "rs11",
+    "target": "rs117",
+    "distance": 10.28,
+    "cost": 1.07
+  },
+  {
+    "source": "rs12",
+    "target": "rs184",
+    "distance": 3.36,
+    "cost": 0.35
+  },
+  {
+    "source": "rs12",
+    "target": "rs95",
+    "distance": 8.94,
+    "cost": 1.76
+  },
+  {
+    "source": "rs12",
+    "target": "rs17",
+    "distance": 10.69,
+    "cost": 1.78
+  },
+  {
+    "source": "rs12",
+    "target": "rs140",
+    "distance": 6.33,
+    "cost": 0.63
+  },
+  {
+    "source": "rs13",
+    "target": "rs170",
+    "distance": 1.66,
+    "cost": 0.16
+  },
+  {
+    "source": "rs121",
+    "target": "rs13",
+    "distance": 5.72,
+    "cost": 0.63
+  },
+  {
+    "source": "rs13",
+    "target": "rs32",
+    "distance": 4.4,
+    "cost": 0.87
+  },
+  {
+    "source": "rs101",
+    "target": "rs13",
+    "distance": 3.34,
+    "cost": 0.52
+  },
+  {
+    "source": "rs108",
+    "target": "rs13",
+    "distance": 1.94,
+    "cost": 0.19
+  },
+  {
+    "source": "rs129",
+    "target": "rs14",
+    "distance": 11.97,
+    "cost": 1.2
+  },
+  {
+    "source": "rs14",
+    "target": "rs66",
+    "distance": 2.91,
+    "cost": 0.42
+  },
+  {
+    "source": "rs106",
+    "target": "rs14",
+    "distance": 7.8,
+    "cost": 1.14
+  },
+  {
+    "source": "rs14",
+    "target": "rs46",
+    "distance": 11.89,
+    "cost": 1.28
+  },
+  {
+    "source": "rs14",
+    "target": "rs150",
+    "distance": 5.54,
+    "cost": 0.64
+  },
+  {
+    "source": "rs15",
+    "target": "rs96",
+    "distance": 4.06,
+    "cost": 0.4
+  },
+  {
+    "source": "rs116",
+    "target": "rs15",
+    "distance": 3.55,
+    "cost": 0.44
+  },
+  {
+    "source": "rs15",
+    "target": "rs183",
+    "distance": 5.8,
+    "cost": 0.77
+  },
+  {
+    "source": "rs15",
+    "target": "rs197",
+    "distance": 2.36,
+    "cost": 0.22
+  },
+  {
+    "source": "rs15",
+    "target": "rs177",
+    "distance": 2.55,
+    "cost": 0.34
+  },
+  {
+    "source": "rs16",
+    "target": "rs54",
+    "distance": 6.06,
+    "cost": 0.62
+  },
+  {
+    "source": "rs16",
+    "target": "rs52",
+    "distance": 9.7,
+    "cost": 1.66
+  },
+  {
+    "source": "rs136",
+    "target": "rs16",
+    "distance": 7.32,
+    "cost": 0.81
+  },
+  {
+    "source": "rs151",
+    "target": "rs16",
+    "distance": 6.01,
+    "cost": 0.52
+  },
+  {
+    "source": "rs16",
+    "target": "rs59",
+    "distance": 11.63,
+    "cost": 2.11
+  },
+  {
+    "source": "rs17",
+    "target": "rs34",
+    "distance": 2.45,
+    "cost": 0.45
+  },
+  {
+    "source": "rs17",
+    "target": "rs184",
+    "distance": 11.41,
+    "cost": 1.67
+  },
+  {
+    "source": "rs17",
+    "target": "rs95",
+    "distance": 7.86,
+    "cost": 0.77
+  },
+  {
+    "source": "rs166",
+    "target": "rs18",
+    "distance": 10.72,
+    "cost": 1.87
+  },
+  {
+    "source": "rs134",
+    "target": "rs18",
+    "distance": 3.28,
+    "cost": 0.35
+  },
+  {
+    "source": "rs18",
+    "target": "rs88",
+    "distance": 10.71,
+    "cost": 1.73
+  },
+  {
+    "source": "rs135",
+    "target": "rs18",
+    "distance": 8.16,
+    "cost": 0.76
+  },
+  {
+    "source": "rs18",
+    "target": "rs199",
+    "distance": 10.62,
+    "cost": 1.01
+  },
+  {
+    "source": "rs157",
+    "target": "rs19",
+    "distance": 8.24,
+    "cost": 1.06
+  },
+  {
+    "source": "rs19",
+    "target": "rs30",
+    "distance": 3.36,
+    "cost": 0.64
+  },
+  {
+    "source": "rs19",
+    "target": "rs193",
+    "distance": 3.52,
+    "cost": 0.52
+  },
+  {
+    "source": "rs152",
+    "target": "rs19",
+    "distance": 3.5,
+    "cost": 0.58
+  },
+  {
+    "source": "rs19",
+    "target": "rs194",
+    "distance": 2.7,
+    "cost": 0.26
+  },
+  {
+    "source": "rs104",
+    "target": "rs20",
+    "distance": 4.74,
+    "cost": 0.61
+  },
+  {
+    "source": "rs158",
+    "target": "rs20",
+    "distance": 8.58,
+    "cost": 1.05
+  },
+  {
+    "source": "rs20",
+    "target": "rs75",
+    "distance": 11.81,
+    "cost": 1.56
+  },
+  {
+    "source": "rs156",
+    "target": "rs20",
+    "distance": 4.59,
+    "cost": 0.63
+  },
+  {
+    "source": "rs109",
+    "target": "rs20",
+    "distance": 3.61,
+    "cost": 0.66
+  },
+  {
+    "source": "rs21",
+    "target": "rs39",
+    "distance": 2.56,
+    "cost": 0.31
+  },
+  {
+    "source": "rs21",
+    "target": "rs44",
+    "distance": 1.46,
+    "cost": 0.18
+  },
+  {
+    "source": "rs168",
+    "target": "rs21",
+    "distance": 9.63,
+    "cost": 0.81
+  },
+  {
+    "source": "rs163",
+    "target": "rs21",
+    "distance": 10.76,
+    "cost": 1.36
+  },
+  {
+    "source": "rs22",
+    "target": "rs80",
+    "distance": 4.95,
+    "cost": 0.8
+  },
+  {
+    "source": "rs22",
+    "target": "rs94",
+    "distance": 10.76,
+    "cost": 1.87
+  },
+  {
+    "source": "rs22",
+    "target": "rs31",
+    "distance": 1.26,
+    "cost": 0.14
+  },
+  {
+    "source": "rs22",
+    "target": "rs52",
+    "distance": 5.03,
+    "cost": 0.79
+  },
+  {
+    "source": "rs22",
+    "target": "rs59",
+    "distance": 2.15,
+    "cost": 0.18
+  },
+  {
+    "source": "rs123",
+    "target": "rs23",
+    "distance": 2.27,
+    "cost": 0.39
+  },
+  {
+    "source": "rs177",
+    "target": "rs23",
+    "distance": 10.45,
+    "cost": 1.93
+  },
+  {
+    "source": "rs168",
+    "target": "rs23",
+    "distance": 4.26,
+    "cost": 0.58
+  },
+  {
+    "source": "rs167",
+    "target": "rs23",
+    "distance": 8.2,
+    "cost": 1.35
+  },
+  {
+    "source": "rs23",
+    "target": "rs49",
+    "distance": 9.56,
+    "cost": 1.4
+  },
+  {
+    "source": "rs180",
+    "target": "rs24",
+    "distance": 3.01,
+    "cost": 0.4
+  },
+  {
+    "source": "rs24",
+    "target": "rs66",
+    "distance": 8.18,
+    "cost": 1.61
+  },
+  {
+    "source": "rs150",
+    "target": "rs24",
+    "distance": 5.48,
+    "cost": 0.97
+  },
+  {
+    "source": "rs14",
+    "target": "rs24",
+    "distance": 6.19,
+    "cost": 0.68
+  },
+  {
+    "source": "rs161",
+    "target": "rs24",
+    "distance": 3.53,
+    "cost": 0.46
+  },
+  {
+    "source": "rs139",
+    "target": "rs25",
+    "distance": 8.05,
+    "cost": 0.88
+  },
+  {
+    "source": "rs25",
+    "target": "rs70",
+    "distance": 8.56,
+    "cost": 1.68
+  },
+  {
+    "source": "rs25",
+    "target": "rs78",
+    "distance": 5.46,
+    "cost": 0.6
+  },
+  {
+    "source": "rs25",
+    "target": "rs92",
+    "distance": 11.11,
+    "cost": 1.01
+  },
+  {
+    "source": "rs25",
+    "target": "rs90",
+    "distance": 7.73,
+    "cost": 1.1
+  },
+  {
+    "source": "rs131",
+    "target": "rs26",
+    "distance": 6.71,
+    "cost": 1.16
+  },
+  {
+    "source": "rs26",
+    "target": "rs85",
+    "distance": 9.08,
+    "cost": 1.45
+  },
+  {
+    "source": "rs128",
+    "target": "rs26",
+    "distance": 6.81,
+    "cost": 0.92
+  },
+  {
+    "source": "rs112",
+    "target": "rs26",
+    "distance": 4.85,
+    "cost": 0.82
+  },
+  {
+    "source": "rs26",
+    "target": "rs79",
+    "distance": 6.15,
+    "cost": 1.13
+  },
+  {
+    "source": "rs27",
+    "target": "rs29",
+    "distance": 10.43,
+    "cost": 0.91
+  },
+  {
+    "source": "rs120",
+    "target": "rs27",
+    "distance": 2.73,
+    "cost": 0.53
+  },
+  {
+    "source": "rs174",
+    "target": "rs27",
+    "distance": 7.92,
+    "cost": 1.33
+  },
+  {
+    "source": "rs199",
+    "target": "rs27",
+    "distance": 7.06,
+    "cost": 0.94
+  },
+  {
+    "source": "rs27",
+    "target": "rs50",
+    "distance": 5.74,
+    "cost": 0.59
+  },
+  {
+    "source": "rs191",
+    "target": "rs28",
+    "distance": 7.64,
+    "cost": 1.34
+  },
+  {
+    "source": "rs28",
+    "target": "rs48",
+    "distance": 2.56,
+    "cost": 0.4
+  },
+  {
+    "source": "rs28",
+    "target": "rs33",
+    "distance": 1.36,
+    "cost": 0.27
+  },
+  {
+    "source": "rs28",
+    "target": "rs55",
+    "distance": 11.97,
+    "cost": 1.19
+  },
+  {
+    "source": "rs181",
+    "target": "rs28",
+    "distance": 11.1,
+    "cost": 1.03
+  },
+  {
+    "source": "rs199",
+    "target": "rs29",
+    "distance": 10.27,
+    "cost": 1.79
+  },
+  {
+    "source": "rs174",
+    "target": "rs29",
+    "distance": 3.72,
+    "cost": 0.68
+  },
+  {
+    "source": "rs120",
+    "target": "rs29",
+    "distance": 6.08,
+    "cost": 0.62
+  },
+  {
+    "source": "rs29",
+    "target": "rs88",
+    "distance": 9.02,
+    "cost": 1.2
+  },
+  {
+    "source": "rs157",
+    "target": "rs30",
+    "distance": 4.06,
+    "cost": 0.68
+  },
+  {
+    "source": "rs152",
+    "target": "rs30",
+    "distance": 8.92,
+    "cost": 0.97
+  },
+  {
+    "source": "rs30",
+    "target": "rs81",
+    "distance": 7.87,
+    "cost": 1.43
+  },
+  {
+    "source": "rs193",
+    "target": "rs30",
+    "distance": 9.16,
+    "cost": 1.59
+  },
+  {
+    "source": "rs31",
+    "target": "rs52",
+    "distance": 6.15,
+    "cost": 0.52
+  },
+  {
+    "source": "rs136",
+    "target": "rs31",
+    "distance": 5.37,
+    "cost": 0.97
+  },
+  {
+    "source": "rs31",
+    "target": "rs49",
+    "distance": 8.24,
+    "cost": 1.14
+  },
+  {
+    "source": "rs31",
+    "target": "rs80",
+    "distance": 3.72,
+    "cost": 0.62
+  },
+  {
+    "source": "rs170",
+    "target": "rs32",
+    "distance": 4.15,
+    "cost": 0.7
+  },
+  {
+    "source": "rs172",
+    "target": "rs32",
+    "distance": 7.99,
+    "cost": 1.54
+  },
+  {
+    "source": "rs179",
+    "target": "rs32",
+    "distance": 4.98,
+    "cost": 0.57
+  },
+  {
+    "source": "rs191",
+    "target": "rs33",
+    "distance": 2.67,
+    "cost": 0.44
+  },
+  {
+    "source": "rs33",
+    "target": "rs55",
+    "distance": 1.02,
+    "cost": 0.19
+  },
+  {
+    "source": "rs33",
+    "target": "rs90",
+    "distance": 3.26,
+    "cost": 0.45
+  },
+  {
+    "source": "rs188",
+    "target": "rs33",
+    "distance": 10.34,
+    "cost": 1.26
+  },
+  {
+    "source": "rs112",
+    "target": "rs34",
+    "distance": 8.99,
+    "cost": 0.95
+  },
+  {
+    "source": "rs184",
+    "target": "rs34",
+    "distance": 7.46,
+    "cost": 0.96
+  },
+  {
+    "source": "rs12",
+    "target": "rs34",
+    "distance": 1.56,
+    "cost": 0.25
+  },
+  {
+    "source": "rs127",
+    "target": "rs35",
+    "distance": 3.76,
+    "cost": 0.62
+  },
+  {
+    "source": "rs195",
+    "target": "rs35",
+    "distance": 3.98,
+    "cost": 0.7
+  },
+  {
+    "source": "rs130",
+    "target": "rs35",
+    "distance": 10.38,
+    "cost": 1.4
+  },
+  {
+    "source": "rs35",
+    "target": "rs93",
+    "distance": 11.9,
+    "cost": 1.11
+  },
+  {
+    "source": "rs156",
+    "target": "rs36",
+    "distance": 3.55,
+    "cost": 0.32
+  },
+  {
+    "source": "rs155",
+    "target": "rs36",
+    "distance": 5.44,
+    "cost": 1.06
+  },
+  {
+    "source": "rs154",
+    "target": "rs36",
+    "distance": 11.01,
+    "cost": 1.08
+  },
+  {
+    "source": "rs178",
+    "target": "rs36",
+    "distance": 6.92,
+    "cost": 1.01
+  },
+  {
+    "source": "rs104",
+    "target": "rs36",
+    "distance": 2.79,
+    "cost": 0.43
+  },
+  {
+    "source": "rs36",
+    "target": "rs37",
+    "distance": 1.8,
+    "cost": 0.26
+  },
+  {
+    "source": "rs37",
+    "target": "rs78",
+    "distance": 11.44,
+    "cost": 1.01
+  },
+  {
+    "source": "rs33",
+    "target": "rs37",
+    "distance": 10.27,
+    "cost": 1.44
+  },
+  {
+    "source": "rs104",
+    "target": "rs37",
+    "distance": 11.32,
+    "cost": 2.21
+  },
+  {
+    "source": "rs156",
+    "target": "rs37",
+    "distance": 5.65,
+    "cost": 0.76
+  },
+  {
+    "source": "rs102",
+    "target": "rs38",
+    "distance": 10.67,
+    "cost": 1.8
+  },
+  {
+    "source": "rs100",
+    "target": "rs38",
+    "distance": 1.89,
+    "cost": 0.29
+  },
+  {
+    "source": "rs143",
+    "target": "rs38",
+    "distance": 1.65,
+    "cost": 0.19
+  },
+  {
+    "source": "rs137",
+    "target": "rs38",
+    "distance": 1.62,
+    "cost": 0.17
+  },
+  {
+    "source": "rs38",
+    "target": "rs61",
+    "distance": 9.56,
+    "cost": 1.38
+  },
+  {
+    "source": "rs163",
+    "target": "rs39",
+    "distance": 9.78,
+    "cost": 1.07
+  },
+  {
+    "source": "rs168",
+    "target": "rs39",
+    "distance": 9.16,
+    "cost": 1.3
+  },
+  {
+    "source": "rs149",
+    "target": "rs39",
+    "distance": 8.36,
+    "cost": 1.44
+  },
+  {
+    "source": "rs155",
+    "target": "rs40",
+    "distance": 7.39,
+    "cost": 1.41
+  },
+  {
+    "source": "rs154",
+    "target": "rs40",
+    "distance": 6.03,
+    "cost": 0.59
+  },
+  {
+    "source": "rs40",
+    "target": "rs56",
+    "distance": 6.58,
+    "cost": 0.7
+  },
+  {
+    "source": "rs36",
+    "target": "rs40",
+    "distance": 1.23,
+    "cost": 0.15
+  },
+  {
+    "source": "rs156",
+    "target": "rs40",
+    "distance": 8.61,
+    "cost": 1.44
+  },
+  {
+    "source": "rs181",
+    "target": "rs41",
+    "distance": 4.62,
+    "cost": 0.82
+  },
+  {
+    "source": "rs188",
+    "target": "rs41",
+    "distance": 3.52,
+    "cost": 0.36
+  },
+  {
+    "source": "rs147",
+    "target": "rs41",
+    "distance": 4.2,
+    "cost": 0.45
+  },
+  {
+    "source": "rs132",
+    "target": "rs41",
+    "distance": 7.76,
+    "cost": 0.93
+  },
+  {
+    "source": "rs182",
+    "target": "rs42",
+    "distance": 7.06,
+    "cost": 1.02
+  },
+  {
+    "source": "rs42",
+    "target": "rs96",
+    "distance": 8.37,
+    "cost": 0.89
+  },
+  {
+    "source": "rs42",
+    "target": "rs87",
+    "distance": 9.54,
+    "cost": 1.82
+  },
+  {
+    "source": "rs167",
+    "target": "rs42",
+    "distance": 5.08,
+    "cost": 0.72
+  },
+  {
+    "source": "rs42",
+    "target": "rs51",
+    "distance": 11.61,
+    "cost": 1.29
+  },
+  {
+    "source": "rs175",
+    "target": "rs43",
+    "distance": 7.89,
+    "cost": 0.9
+  },
+  {
+    "source": "rs159",
+    "target": "rs43",
+    "distance": 11.31,
+    "cost": 1.7
+  },
+  {
+    "source": "rs141",
+    "target": "rs43",
+    "distance": 7.01,
+    "cost": 1.16
+  },
+  {
+    "source": "rs43",
+    "target": "rs63",
+    "distance": 11.8,
+    "cost": 1.88
+  },
+  {
+    "source": "rs168",
+    "target": "rs44",
+    "distance": 7.86,
+    "cost": 1.13
+  },
+  {
+    "source": "rs39",
+    "target": "rs44",
+    "distance": 11.55,
+    "cost": 1.52
+  },
+  {
+    "source": "rs177",
+    "target": "rs44",
+    "distance": 9.41,
+    "cost": 1.49
+  },
+  {
+    "source": "rs45",
+    "target": "rs69",
+    "distance": 3.61,
+    "cost": 0.45
+  },
+  {
+    "source": "rs45",
+    "target": "rs71",
+    "distance": 1.24,
+    "cost": 0.17
+  },
+  {
+    "source": "rs107",
+    "target": "rs45",
+    "distance": 12.0,
+    "cost": 2.24
+  },
+  {
+    "source": "rs140",
+    "target": "rs45",
+    "distance": 7.08,
+    "cost": 0.63
+  },
+  {
+    "source": "rs45",
+    "target": "rs95",
+    "distance": 8.31,
+    "cost": 1.5
+  },
+  {
+    "source": "rs150",
+    "target": "rs46",
+    "distance": 5.18,
+    "cost": 0.59
+  },
+  {
+    "source": "rs46",
+    "target": "rs66",
+    "distance": 1.4,
+    "cost": 0.25
+  },
+  {
+    "source": "rs46",
+    "target": "rs98",
+    "distance": 4.09,
+    "cost": 0.6
+  },
+  {
+    "source": "rs106",
+    "target": "rs46",
+    "distance": 4.2,
+    "cost": 0.63
+  },
+  {
+    "source": "rs115",
+    "target": "rs47",
+    "distance": 6.85,
+    "cost": 1.14
+  },
+  {
+    "source": "rs47",
+    "target": "rs98",
+    "distance": 11.48,
+    "cost": 1.67
+  },
+  {
+    "source": "rs47",
+    "target": "rs76",
+    "distance": 9.89,
+    "cost": 1.69
+  },
+  {
+    "source": "rs185",
+    "target": "rs47",
+    "distance": 9.63,
+    "cost": 0.77
+  },
+  {
+    "source": "rs150",
+    "target": "rs47",
+    "distance": 11.2,
+    "cost": 1.22
+  },
+  {
+    "source": "rs117",
+    "target": "rs48",
+    "distance": 1.32,
+    "cost": 0.13
+  },
+  {
+    "source": "rs198",
+    "target": "rs48",
+    "distance": 9.62,
+    "cost": 1.29
+  },
+  {
+    "source": "rs181",
+    "target": "rs48",
+    "distance": 10.55,
+    "cost": 1.56
+  },
+  {
+    "source": "rs48",
+    "target": "rs67",
+    "distance": 4.31,
+    "cost": 0.64
+  },
+  {
+    "source": "rs167",
+    "target": "rs49",
+    "distance": 6.8,
+    "cost": 0.96
+  },
+  {
+    "source": "rs136",
+    "target": "rs49",
+    "distance": 7.4,
+    "cost": 0.62
+  },
+  {
+    "source": "rs49",
+    "target": "rs52",
+    "distance": 6.34,
+    "cost": 0.83
+  },
+  {
+    "source": "rs174",
+    "target": "rs50",
+    "distance": 4.25,
+    "cost": 0.67
+  },
+  {
+    "source": "rs120",
+    "target": "rs50",
+    "distance": 8.64,
+    "cost": 0.91
+  },
+  {
+    "source": "rs134",
+    "target": "rs50",
+    "distance": 1.21,
+    "cost": 0.11
+  },
+  {
+    "source": "rs50",
+    "target": "rs88",
+    "distance": 9.88,
+    "cost": 1.92
+  },
+  {
+    "source": "rs51",
+    "target": "rs87",
+    "distance": 9.24,
+    "cost": 1.47
+  },
+  {
+    "source": "rs110",
+    "target": "rs51",
+    "distance": 4.03,
+    "cost": 0.62
+  },
+  {
+    "source": "rs51",
+    "target": "rs60",
+    "distance": 11.54,
+    "cost": 1.76
+  },
+  {
+    "source": "rs182",
+    "target": "rs51",
+    "distance": 8.76,
+    "cost": 1.66
+  },
+  {
+    "source": "rs183",
+    "target": "rs51",
+    "distance": 8.14,
+    "cost": 1.48
+  },
+  {
+    "source": "rs136",
+    "target": "rs52",
+    "distance": 1.26,
+    "cost": 0.2
+  },
+  {
+    "source": "rs52",
+    "target": "rs54",
+    "distance": 7.27,
+    "cost": 1.13
+  },
+  {
+    "source": "rs53",
+    "target": "rs56",
+    "distance": 5.15,
+    "cost": 0.81
+  },
+  {
+    "source": "rs53",
+    "target": "rs84",
+    "distance": 8.17,
+    "cost": 0.76
+  },
+  {
+    "source": "rs53",
+    "target": "rs75",
+    "distance": 11.7,
+    "cost": 1.93
+  },
+  {
+    "source": "rs109",
+    "target": "rs53",
+    "distance": 7.31,
+    "cost": 1.22
+  },
+  {
+    "source": "rs40",
+    "target": "rs53",
+    "distance": 3.73,
+    "cost": 0.72
+  },
+  {
+    "source": "rs54",
+    "target": "rs59",
+    "distance": 4.54,
+    "cost": 0.6
+  },
+  {
+    "source": "rs151",
+    "target": "rs54",
+    "distance": 11.38,
+    "cost": 2.2
+  },
+  {
+    "source": "rs136",
+    "target": "rs54",
+    "distance": 5.86,
+    "cost": 0.87
+  },
+  {
+    "source": "rs191",
+    "target": "rs55",
+    "distance": 7.12,
+    "cost": 0.87
+  },
+  {
+    "source": "rs188",
+    "target": "rs55",
+    "distance": 1.48,
+    "cost": 0.21
+  },
+  {
+    "source": "rs158",
+    "target": "rs55",
+    "distance": 9.63,
+    "cost": 1.36
+  },
+  {
+    "source": "rs56",
+    "target": "rs84",
+    "distance": 9.78,
+    "cost": 1.42
+  },
+  {
+    "source": "rs56",
+    "target": "rs75",
+    "distance": 8.87,
+    "cost": 1.63
+  },
+  {
+    "source": "rs155",
+    "target": "rs56",
+    "distance": 2.73,
+    "cost": 0.32
+  },
+  {
+    "source": "rs137",
+    "target": "rs57",
+    "distance": 11.19,
+    "cost": 1.87
+  },
+  {
+    "source": "rs124",
+    "target": "rs57",
+    "distance": 1.54,
+    "cost": 0.28
+  },
+  {
+    "source": "rs102",
+    "target": "rs57",
+    "distance": 6.07,
+    "cost": 1.02
+  },
+  {
+    "source": "rs38",
+    "target": "rs57",
+    "distance": 11.86,
+    "cost": 2.33
+  },
+  {
+    "source": "rs143",
+    "target": "rs57",
+    "distance": 9.31,
+    "cost": 1.77
+  },
+  {
+    "source": "rs197",
+    "target": "rs58",
+    "distance": 4.6,
+    "cost": 0.47
+  },
+  {
+    "source": "rs119",
+    "target": "rs58",
+    "distance": 10.7,
+    "cost": 1.16
+  },
+  {
+    "source": "rs116",
+    "target": "rs58",
+    "distance": 11.99,
+    "cost": 1.84
+  },
+  {
+    "source": "rs15",
+    "target": "rs58",
+    "distance": 7.27,
+    "cost": 1.35
+  },
+  {
+    "source": "rs162",
+    "target": "rs58",
+    "distance": 10.04,
+    "cost": 1.42
+  },
+  {
+    "source": "rs59",
+    "target": "rs83",
+    "distance": 3.04,
+    "cost": 0.41
+  },
+  {
+    "source": "rs151",
+    "target": "rs59",
+    "distance": 9.05,
+    "cost": 1.03
+  },
+  {
+    "source": "rs200",
+    "target": "rs59",
+    "distance": 1.2,
+    "cost": 0.21
+  },
+  {
+    "source": "rs110",
+    "target": "rs60",
+    "distance": 9.76,
+    "cost": 1.41
+  },
+  {
+    "source": "rs183",
+    "target": "rs60",
+    "distance": 6.39,
+    "cost": 1.24
+  },
+  {
+    "source": "rs116",
+    "target": "rs60",
+    "distance": 11.44,
+    "cost": 1.95
+  },
+  {
+    "source": "rs169",
+    "target": "rs61",
+    "distance": 5.49,
+    "cost": 0.58
+  },
+  {
+    "source": "rs176",
+    "target": "rs61",
+    "distance": 7.25,
+    "cost": 0.9
+  },
+  {
+    "source": "rs100",
+    "target": "rs61",
+    "distance": 6.06,
+    "cost": 0.6
+  },
+  {
+    "source": "rs61",
+    "target": "rs64",
+    "distance": 3.1,
+    "cost": 0.45
+  },
+  {
+    "source": "rs62",
+    "target": "rs73",
+    "distance": 4.83,
+    "cost": 0.59
+  },
+  {
+    "source": "rs140",
+    "target": "rs62",
+    "distance": 10.34,
+    "cost": 1.52
+  },
+  {
+    "source": "rs178",
+    "target": "rs62",
+    "distance": 8.6,
+    "cost": 0.82
+  },
+  {
+    "source": "rs62",
+    "target": "rs95",
+    "distance": 4.88,
+    "cost": 0.42
+  },
+  {
+    "source": "rs154",
+    "target": "rs62",
+    "distance": 4.48,
+    "cost": 0.58
+  },
+  {
+    "source": "rs141",
+    "target": "rs63",
+    "distance": 2.76,
+    "cost": 0.33
+  },
+  {
+    "source": "rs148",
+    "target": "rs63",
+    "distance": 9.19,
+    "cost": 1.74
+  },
+  {
+    "source": "rs63",
+    "target": "rs91",
+    "distance": 5.81,
+    "cost": 0.96
+  },
+  {
+    "source": "rs169",
+    "target": "rs64",
+    "distance": 1.31,
+    "cost": 0.16
+  },
+  {
+    "source": "rs176",
+    "target": "rs64",
+    "distance": 3.26,
+    "cost": 0.34
+  },
+  {
+    "source": "rs125",
+    "target": "rs64",
+    "distance": 5.79,
+    "cost": 0.65
+  },
+  {
+    "source": "rs2",
+    "target": "rs64",
+    "distance": 7.35,
+    "cost": 1.46
+  },
+  {
+    "source": "rs162",
+    "target": "rs65",
+    "distance": 3.73,
+    "cost": 0.47
+  },
+  {
+    "source": "rs192",
+    "target": "rs65",
+    "distance": 2.99,
+    "cost": 0.56
+  },
+  {
+    "source": "rs64",
+    "target": "rs65",
+    "distance": 1.69,
+    "cost": 0.14
+  },
+  {
+    "source": "rs135",
+    "target": "rs65",
+    "distance": 10.67,
+    "cost": 1.04
+  },
+  {
+    "source": "rs129",
+    "target": "rs66",
+    "distance": 8.4,
+    "cost": 1.09
+  },
+  {
+    "source": "rs106",
+    "target": "rs66",
+    "distance": 11.8,
+    "cost": 1.76
+  },
+  {
+    "source": "rs150",
+    "target": "rs66",
+    "distance": 2.92,
+    "cost": 0.36
+  },
+  {
+    "source": "rs67",
+    "target": "rs74",
+    "distance": 8.65,
+    "cost": 1.14
+  },
+  {
+    "source": "rs181",
+    "target": "rs67",
+    "distance": 3.34,
+    "cost": 0.32
+  },
+  {
+    "source": "rs198",
+    "target": "rs67",
+    "distance": 9.67,
+    "cost": 1.6
+  },
+  {
+    "source": "rs41",
+    "target": "rs67",
+    "distance": 8.56,
+    "cost": 0.75
+  },
+  {
+    "source": "rs179",
+    "target": "rs68",
+    "distance": 11.78,
+    "cost": 0.95
+  },
+  {
+    "source": "rs172",
+    "target": "rs68",
+    "distance": 8.42,
+    "cost": 0.81
+  },
+  {
+    "source": "rs32",
+    "target": "rs68",
+    "distance": 9.86,
+    "cost": 1.88
+  },
+  {
+    "source": "rs190",
+    "target": "rs68",
+    "distance": 6.73,
+    "cost": 0.73
+  },
+  {
+    "source": "rs140",
+    "target": "rs69",
+    "distance": 10.69,
+    "cost": 1.58
+  },
+  {
+    "source": "rs69",
+    "target": "rs71",
+    "distance": 1.98,
+    "cost": 0.24
+  },
+  {
+    "source": "rs69",
+    "target": "rs95",
+    "distance": 2.95,
+    "cost": 0.38
+  },
+  {
+    "source": "rs69",
+    "target": "rs78",
+    "distance": 10.81,
+    "cost": 1.1
+  },
+  {
+    "source": "rs139",
+    "target": "rs70",
+    "distance": 9.93,
+    "cost": 1.59
+  },
+  {
+    "source": "rs70",
+    "target": "rs92",
+    "distance": 11.38,
+    "cost": 1.25
+  },
+  {
+    "source": "rs70",
+    "target": "rs78",
+    "distance": 8.71,
+    "cost": 0.72
+  },
+  {
+    "source": "rs70",
+    "target": "rs71",
+    "distance": 4.21,
+    "cost": 0.38
+  },
+  {
+    "source": "rs107",
+    "target": "rs71",
+    "distance": 7.78,
+    "cost": 0.64
+  },
+  {
+    "source": "rs175",
+    "target": "rs71",
+    "distance": 1.39,
+    "cost": 0.24
+  },
+  {
+    "source": "rs160",
+    "target": "rs72",
+    "distance": 11.49,
+    "cost": 1.87
+  },
+  {
+    "source": "rs144",
+    "target": "rs72",
+    "distance": 1.07,
+    "cost": 0.09
+  },
+  {
+    "source": "rs185",
+    "target": "rs72",
+    "distance": 1.9,
+    "cost": 0.33
+  },
+  {
+    "source": "rs72",
+    "target": "rs97",
+    "distance": 1.47,
+    "cost": 0.17
+  },
+  {
+    "source": "rs111",
+    "target": "rs72",
+    "distance": 5.9,
+    "cost": 0.53
+  },
+  {
+    "source": "rs178",
+    "target": "rs73",
+    "distance": 9.21,
+    "cost": 0.94
+  },
+  {
+    "source": "rs154",
+    "target": "rs73",
+    "distance": 8.17,
+    "cost": 1.1
+  },
+  {
+    "source": "rs155",
+    "target": "rs73",
+    "distance": 6.24,
+    "cost": 0.66
+  },
+  {
+    "source": "rs36",
+    "target": "rs73",
+    "distance": 6.56,
+    "cost": 0.85
+  },
+  {
+    "source": "rs198",
+    "target": "rs74",
+    "distance": 3.48,
+    "cost": 0.65
+  },
+  {
+    "source": "rs118",
+    "target": "rs74",
+    "distance": 7.79,
+    "cost": 1.34
+  },
+  {
+    "source": "rs117",
+    "target": "rs74",
+    "distance": 6.79,
+    "cost": 0.95
+  },
+  {
+    "source": "rs181",
+    "target": "rs74",
+    "distance": 4.84,
+    "cost": 0.46
+  },
+  {
+    "source": "rs109",
+    "target": "rs75",
+    "distance": 6.42,
+    "cost": 0.74
+  },
+  {
+    "source": "rs75",
+    "target": "rs84",
+    "distance": 5.22,
+    "cost": 0.68
+  },
+  {
+    "source": "rs185",
+    "target": "rs76",
+    "distance": 2.21,
+    "cost": 0.34
+  },
+  {
+    "source": "rs76",
+    "target": "rs98",
+    "distance": 2.19,
+    "cost": 0.39
+  },
+  {
+    "source": "rs144",
+    "target": "rs76",
+    "distance": 10.99,
+    "cost": 1.47
+  },
+  {
+    "source": "rs164",
+    "target": "rs76",
+    "distance": 7.84,
+    "cost": 1.48
+  },
+  {
+    "source": "rs164",
+    "target": "rs77",
+    "distance": 3.98,
+    "cost": 0.74
+  },
+  {
+    "source": "rs76",
+    "target": "rs77",
+    "distance": 7.09,
+    "cost": 0.61
+  },
+  {
+    "source": "rs133",
+    "target": "rs77",
+    "distance": 6.14,
+    "cost": 1.03
+  },
+  {
+    "source": "rs185",
+    "target": "rs77",
+    "distance": 7.78,
+    "cost": 0.95
+  },
+  {
+    "source": "rs106",
+    "target": "rs77",
+    "distance": 9.69,
+    "cost": 1.91
+  },
+  {
+    "source": "rs139",
+    "target": "rs78",
+    "distance": 6.06,
+    "cost": 0.78
+  },
+  {
+    "source": "rs78",
+    "target": "rs92",
+    "distance": 3.73,
+    "cost": 0.48
+  },
+  {
+    "source": "rs187",
+    "target": "rs79",
+    "distance": 3.96,
+    "cost": 0.71
+  },
+  {
+    "source": "rs128",
+    "target": "rs79",
+    "distance": 9.65,
+    "cost": 1.88
+  },
+  {
+    "source": "rs148",
+    "target": "rs79",
+    "distance": 6.06,
+    "cost": 1.14
+  },
+  {
+    "source": "rs131",
+    "target": "rs79",
+    "distance": 6.55,
+    "cost": 0.79
+  },
+  {
+    "source": "rs80",
+    "target": "rs94",
+    "distance": 5.23,
+    "cost": 0.83
+  },
+  {
+    "source": "rs52",
+    "target": "rs80",
+    "distance": 1.97,
+    "cost": 0.17
+  },
+  {
+    "source": "rs59",
+    "target": "rs80",
+    "distance": 8.57,
+    "cost": 1.49
+  },
+  {
+    "source": "rs142",
+    "target": "rs81",
+    "distance": 2.31,
+    "cost": 0.44
+  },
+  {
+    "source": "rs165",
+    "target": "rs81",
+    "distance": 9.39,
+    "cost": 0.83
+  },
+  {
+    "source": "rs157",
+    "target": "rs81",
+    "distance": 2.72,
+    "cost": 0.42
+  },
+  {
+    "source": "rs151",
+    "target": "rs82",
+    "distance": 8.95,
+    "cost": 1.2
+  },
+  {
+    "source": "rs121",
+    "target": "rs82",
+    "distance": 8.78,
+    "cost": 1.2
+  },
+  {
+    "source": "rs170",
+    "target": "rs82",
+    "distance": 1.74,
+    "cost": 0.32
+  },
+  {
+    "source": "rs13",
+    "target": "rs82",
+    "distance": 2.54,
+    "cost": 0.37
+  },
+  {
+    "source": "rs54",
+    "target": "rs82",
+    "distance": 6.99,
+    "cost": 0.61
+  },
+  {
+    "source": "rs101",
+    "target": "rs83",
+    "distance": 6.91,
+    "cost": 0.65
+  },
+  {
+    "source": "rs83",
+    "target": "rs89",
+    "distance": 6.62,
+    "cost": 0.83
+  },
+  {
+    "source": "rs108",
+    "target": "rs83",
+    "distance": 4.22,
+    "cost": 0.54
+  },
+  {
+    "source": "rs200",
+    "target": "rs83",
+    "distance": 4.45,
+    "cost": 0.49
+  },
+  {
+    "source": "rs109",
+    "target": "rs84",
+    "distance": 8.97,
+    "cost": 1.28
+  },
+  {
+    "source": "rs138",
+    "target": "rs84",
+    "distance": 4.93,
+    "cost": 0.9
+  },
+  {
+    "source": "rs131",
+    "target": "rs85",
+    "distance": 6.86,
+    "cost": 0.96
+  },
+  {
+    "source": "rs107",
+    "target": "rs85",
+    "distance": 11.12,
+    "cost": 1.29
+  },
+  {
+    "source": "rs112",
+    "target": "rs85",
+    "distance": 8.3,
+    "cost": 0.75
+  },
+  {
+    "source": "rs71",
+    "target": "rs85",
+    "distance": 11.63,
+    "cost": 1.82
+  },
+  {
+    "source": "rs125",
+    "target": "rs86",
+    "distance": 5.86,
+    "cost": 1.07
+  },
+  {
+    "source": "rs122",
+    "target": "rs86",
+    "distance": 3.12,
+    "cost": 0.25
+  },
+  {
+    "source": "rs135",
+    "target": "rs86",
+    "distance": 8.91,
+    "cost": 0.81
+  },
+  {
+    "source": "rs199",
+    "target": "rs86",
+    "distance": 3.29,
+    "cost": 0.36
+  },
+  {
+    "source": "rs29",
+    "target": "rs86",
+    "distance": 1.91,
+    "cost": 0.26
+  },
+  {
+    "source": "rs182",
+    "target": "rs87",
+    "distance": 4.61,
+    "cost": 0.64
+  },
+  {
+    "source": "rs87",
+    "target": "rs96",
+    "distance": 11.54,
+    "cost": 2.22
+  },
+  {
+    "source": "rs110",
+    "target": "rs87",
+    "distance": 1.82,
+    "cost": 0.3
+  },
+  {
+    "source": "rs134",
+    "target": "rs88",
+    "distance": 2.97,
+    "cost": 0.54
+  },
+  {
+    "source": "rs199",
+    "target": "rs88",
+    "distance": 7.57,
+    "cost": 1.45
+  },
+  {
+    "source": "rs166",
+    "target": "rs88",
+    "distance": 8.13,
+    "cost": 1.44
+  },
+  {
+    "source": "rs174",
+    "target": "rs88",
+    "distance": 9.51,
+    "cost": 1.85
+  },
+  {
+    "source": "rs108",
+    "target": "rs89",
+    "distance": 3.26,
+    "cost": 0.43
+  },
+  {
+    "source": "rs200",
+    "target": "rs89",
+    "distance": 6.5,
+    "cost": 0.89
+  },
+  {
+    "source": "rs101",
+    "target": "rs89",
+    "distance": 10.45,
+    "cost": 1.81
+  },
+  {
+    "source": "rs190",
+    "target": "rs89",
+    "distance": 8.47,
+    "cost": 1.01
+  },
+  {
+    "source": "rs90",
+    "target": "rs92",
+    "distance": 7.22,
+    "cost": 1.29
+  },
+  {
+    "source": "rs139",
+    "target": "rs90",
+    "distance": 7.29,
+    "cost": 0.92
+  },
+  {
+    "source": "rs70",
+    "target": "rs90",
+    "distance": 3.17,
+    "cost": 0.28
+  },
+  {
+    "source": "rs141",
+    "target": "rs91",
+    "distance": 2.32,
+    "cost": 0.43
+  },
+  {
+    "source": "rs42",
+    "target": "rs91",
+    "distance": 4.06,
+    "cost": 0.61
+  },
+  {
+    "source": "rs139",
+    "target": "rs92",
+    "distance": 2.86,
+    "cost": 0.52
+  },
+  {
+    "source": "rs130",
+    "target": "rs93",
+    "distance": 10.59,
+    "cost": 0.89
+  },
+  {
+    "source": "rs127",
+    "target": "rs93",
+    "distance": 11.63,
+    "cost": 1.24
+  },
+  {
+    "source": "rs124",
+    "target": "rs93",
+    "distance": 3.8,
+    "cost": 0.5
+  },
+  {
+    "source": "rs31",
+    "target": "rs94",
+    "distance": 9.0,
+    "cost": 1.65
+  },
+  {
+    "source": "rs133",
+    "target": "rs94",
+    "distance": 7.26,
+    "cost": 1.36
+  },
+  {
+    "source": "rs129",
+    "target": "rs94",
+    "distance": 3.48,
+    "cost": 0.36
+  },
+  {
+    "source": "rs140",
+    "target": "rs95",
+    "distance": 5.66,
+    "cost": 1.1
+  },
+  {
+    "source": "rs184",
+    "target": "rs95",
+    "distance": 5.88,
+    "cost": 0.82
+  },
+  {
+    "source": "rs182",
+    "target": "rs96",
+    "distance": 1.85,
+    "cost": 0.19
+  },
+  {
+    "source": "rs51",
+    "target": "rs96",
+    "distance": 9.52,
+    "cost": 1.19
+  },
+  {
+    "source": "rs144",
+    "target": "rs97",
+    "distance": 1.56,
+    "cost": 0.17
+  },
+  {
+    "source": "rs160",
+    "target": "rs97",
+    "distance": 1.29,
+    "cost": 0.24
+  },
+  {
+    "source": "rs111",
+    "target": "rs97",
+    "distance": 9.4,
+    "cost": 1.57
+  },
+  {
+    "source": "rs185",
+    "target": "rs97",
+    "distance": 10.04,
+    "cost": 0.87
+  },
+  {
+    "source": "rs115",
+    "target": "rs98",
+    "distance": 1.34,
+    "cost": 0.2
+  },
+  {
+    "source": "rs150",
+    "target": "rs98",
+    "distance": 3.98,
+    "cost": 0.67
+  },
+  {
+    "source": "rs146",
+    "target": "rs99",
+    "distance": 10.91,
+    "cost": 2.08
+  },
+  {
+    "source": "rs103",
+    "target": "rs99",
+    "distance": 11.48,
+    "cost": 1.88
+  },
+  {
+    "source": "rs153",
+    "target": "rs99",
+    "distance": 10.8,
+    "cost": 1.73
+  },
+  {
+    "source": "rs18",
+    "target": "rs99",
+    "distance": 9.73,
+    "cost": 1.51
+  },
+  {
+    "source": "rs105",
+    "target": "rs99",
+    "distance": 9.03,
+    "cost": 0.83
+  },
+  {
+    "source": "rs100",
+    "target": "rs102",
+    "distance": 2.77,
+    "cost": 0.4
+  },
+  {
+    "source": "rs100",
+    "target": "rs122",
+    "distance": 5.56,
+    "cost": 1.1
+  },
+  {
+    "source": "rs100",
+    "target": "rs143",
+    "distance": 8.22,
+    "cost": 1.34
+  },
+  {
+    "source": "rs101",
+    "target": "rs108",
+    "distance": 1.69,
+    "cost": 0.33
+  },
+  {
+    "source": "rs101",
+    "target": "rs170",
+    "distance": 7.57,
+    "cost": 0.61
+  },
+  {
+    "source": "rs101",
+    "target": "rs121",
+    "distance": 10.73,
+    "cost": 1.6
+  },
+  {
+    "source": "rs102",
+    "target": "rs143",
+    "distance": 4.13,
+    "cost": 0.44
+  },
+  {
+    "source": "rs102",
+    "target": "rs137",
+    "distance": 1.37,
+    "cost": 0.13
+  },
+  {
+    "source": "rs102",
+    "target": "rs149",
+    "distance": 7.84,
+    "cost": 1.16
+  },
+  {
+    "source": "rs102",
+    "target": "rs124",
+    "distance": 1.9,
+    "cost": 0.18
+  },
+  {
+    "source": "rs103",
+    "target": "rs153",
+    "distance": 6.48,
+    "cost": 0.63
+  },
+  {
+    "source": "rs103",
+    "target": "rs146",
+    "distance": 6.33,
+    "cost": 0.93
+  },
+  {
+    "source": "rs103",
+    "target": "rs105",
+    "distance": 11.43,
+    "cost": 1.19
+  },
+  {
+    "source": "rs104",
+    "target": "rs156",
+    "distance": 2.99,
+    "cost": 0.31
+  },
+  {
+    "source": "rs104",
+    "target": "rs53",
+    "distance": 11.28,
+    "cost": 1.36
+  },
+  {
+    "source": "rs104",
+    "target": "rs75",
+    "distance": 6.05,
+    "cost": 1.01
+  },
+  {
+    "source": "rs105",
+    "target": "rs153",
+    "distance": 7.99,
+    "cost": 1.31
+  },
+  {
+    "source": "rs105",
+    "target": "rs145",
+    "distance": 4.94,
+    "cost": 0.89
+  },
+  {
+    "source": "rs105",
+    "target": "rs173",
+    "distance": 8.76,
+    "cost": 1.46
+  },
+  {
+    "source": "rs106",
+    "target": "rs133",
+    "distance": 3.86,
+    "cost": 0.45
+  },
+  {
+    "source": "rs106",
+    "target": "rs164",
+    "distance": 5.96,
+    "cost": 0.81
+  },
+  {
+    "source": "rs106",
+    "target": "rs129",
+    "distance": 7.15,
+    "cost": 0.72
+  },
+  {
+    "source": "rs107",
+    "target": "rs69",
+    "distance": 6.93,
+    "cost": 0.72
+  },
+  {
+    "source": "rs107",
+    "target": "rs26",
+    "distance": 1.21,
+    "cost": 0.11
+  },
+  {
+    "source": "rs108",
+    "target": "rs170",
+    "distance": 2.44,
+    "cost": 0.42
+  },
+  {
+    "source": "rs108",
+    "target": "rs190",
+    "distance": 10.36,
+    "cost": 1.49
+  },
+  {
+    "source": "rs109",
+    "target": "rs138",
+    "distance": 10.69,
+    "cost": 1.97
+  },
+  {
+    "source": "rs109",
+    "target": "rs56",
+    "distance": 10.1,
+    "cost": 1.18
+  },
+  {
+    "source": "rs110",
+    "target": "rs183",
+    "distance": 11.7,
+    "cost": 1.61
+  },
+  {
+    "source": "rs110",
+    "target": "rs116",
+    "distance": 5.15,
+    "cost": 0.77
+  },
+  {
+    "source": "rs111",
+    "target": "rs194",
+    "distance": 5.07,
+    "cost": 0.72
+  },
+  {
+    "source": "rs111",
+    "target": "rs165",
+    "distance": 8.32,
+    "cost": 0.68
+  },
+  {
+    "source": "rs111",
+    "target": "rs160",
+    "distance": 8.69,
+    "cost": 1.36
+  },
+  {
+    "source": "rs112",
+    "target": "rs131",
+    "distance": 3.08,
+    "cost": 0.43
+  },
+  {
+    "source": "rs113",
+    "target": "rs126",
+    "distance": 5.33,
+    "cost": 1.06
+  },
+  {
+    "source": "rs113",
+    "target": "rs196",
+    "distance": 5.64,
+    "cost": 0.53
+  },
+  {
+    "source": "rs113",
+    "target": "rs180",
+    "distance": 8.18,
+    "cost": 1.5
+  },
+  {
+    "source": "rs113",
+    "target": "rs24",
+    "distance": 11.05,
+    "cost": 1.99
+  },
+  {
+    "source": "rs113",
+    "target": "rs190",
+    "distance": 4.74,
+    "cost": 0.93
+  },
+  {
+    "source": "rs114",
+    "target": "rs118",
+    "distance": 11.87,
+    "cost": 1.75
+  },
+  {
+    "source": "rs114",
+    "target": "rs74",
+    "distance": 4.19,
+    "cost": 0.84
+  },
+  {
+    "source": "rs114",
+    "target": "rs186",
+    "distance": 2.75,
+    "cost": 0.51
+  },
+  {
+    "source": "rs114",
+    "target": "rs173",
+    "distance": 11.64,
+    "cost": 1.85
+  },
+  {
+    "source": "rs114",
+    "target": "rs67",
+    "distance": 8.57,
+    "cost": 0.77
+  },
+  {
+    "source": "rs115",
+    "target": "rs150",
+    "distance": 7.66,
+    "cost": 1.04
+  },
+  {
+    "source": "rs115",
+    "target": "rs46",
+    "distance": 2.5,
+    "cost": 0.38
+  },
+  {
+    "source": "rs115",
+    "target": "rs76",
+    "distance": 10.23,
+    "cost": 1.93
+  },
+  {
+    "source": "rs116",
+    "target": "rs183",
+    "distance": 1.65,
+    "cost": 0.21
+  },
+  {
+    "source": "rs116",
+    "target": "rs197",
+    "distance": 3.9,
+    "cost": 0.32
+  },
+  {
+    "source": "rs116",
+    "target": "rs51",
+    "distance": 11.48,
+    "cost": 1.64
+  },
+  {
+    "source": "rs117",
+    "target": "rs198",
+    "distance": 5.15,
+    "cost": 0.62
+  },
+  {
+    "source": "rs117",
+    "target": "rs171",
+    "distance": 11.74,
+    "cost": 1.86
+  },
+  {
+    "source": "rs117",
+    "target": "rs67",
+    "distance": 8.79,
+    "cost": 1.71
+  },
+  {
+    "source": "rs118",
+    "target": "rs67",
+    "distance": 8.3,
+    "cost": 0.94
+  },
+  {
+    "source": "rs118",
+    "target": "rs186",
+    "distance": 11.26,
+    "cost": 1.56
+  },
+  {
+    "source": "rs118",
+    "target": "rs198",
+    "distance": 2.41,
+    "cost": 0.31
+  },
+  {
+    "source": "rs119",
+    "target": "rs197",
+    "distance": 4.19,
+    "cost": 0.73
+  },
+  {
+    "source": "rs116",
+    "target": "rs119",
+    "distance": 11.07,
+    "cost": 1.41
+  },
+  {
+    "source": "rs119",
+    "target": "rs183",
+    "distance": 10.89,
+    "cost": 1.49
+  },
+  {
+    "source": "rs119",
+    "target": "rs171",
+    "distance": 3.68,
+    "cost": 0.57
+  },
+  {
+    "source": "rs120",
+    "target": "rs174",
+    "distance": 8.3,
+    "cost": 1.34
+  },
+  {
+    "source": "rs120",
+    "target": "rs199",
+    "distance": 9.74,
+    "cost": 0.87
+  },
+  {
+    "source": "rs121",
+    "target": "rs170",
+    "distance": 11.72,
+    "cost": 1.48
+  },
+  {
+    "source": "rs108",
+    "target": "rs121",
+    "distance": 4.37,
+    "cost": 0.69
+  },
+  {
+    "source": "rs121",
+    "target": "rs32",
+    "distance": 2.53,
+    "cost": 0.33
+  },
+  {
+    "source": "rs122",
+    "target": "rs125",
+    "distance": 9.19,
+    "cost": 1.23
+  },
+  {
+    "source": "rs122",
+    "target": "rs61",
+    "distance": 7.97,
+    "cost": 0.69
+  },
+  {
+    "source": "rs122",
+    "target": "rs169",
+    "distance": 7.58,
+    "cost": 0.73
+  },
+  {
+    "source": "rs123",
+    "target": "rs195",
+    "distance": 1.91,
+    "cost": 0.18
+  },
+  {
+    "source": "rs123",
+    "target": "rs136",
+    "distance": 7.82,
+    "cost": 0.72
+  },
+  {
+    "source": "rs123",
+    "target": "rs163",
+    "distance": 5.6,
+    "cost": 0.48
+  },
+  {
+    "source": "rs123",
+    "target": "rs168",
+    "distance": 9.12,
+    "cost": 1.55
+  },
+  {
+    "source": "rs124",
+    "target": "rs137",
+    "distance": 1.59,
+    "cost": 0.27
+  },
+  {
+    "source": "rs124",
+    "target": "rs149",
+    "distance": 4.32,
+    "cost": 0.47
+  },
+  {
+    "source": "rs125",
+    "target": "rs135",
+    "distance": 8.56,
+    "cost": 0.76
+  },
+  {
+    "source": "rs125",
+    "target": "rs61",
+    "distance": 3.92,
+    "cost": 0.42
+  },
+  {
+    "source": "rs126",
+    "target": "rs196",
+    "distance": 11.93,
+    "cost": 1.74
+  },
+  {
+    "source": "rs126",
+    "target": "rs190",
+    "distance": 4.86,
+    "cost": 0.41
+  },
+  {
+    "source": "rs126",
+    "target": "rs172",
+    "distance": 6.0,
+    "cost": 1.06
+  },
+  {
+    "source": "rs126",
+    "target": "rs3",
+    "distance": 9.88,
+    "cost": 1.58
+  },
+  {
+    "source": "rs127",
+    "target": "rs130",
+    "distance": 11.49,
+    "cost": 1.46
+  },
+  {
+    "source": "rs127",
+    "target": "rs195",
+    "distance": 10.6,
+    "cost": 1.45
+  },
+  {
+    "source": "rs128",
+    "target": "rs187",
+    "distance": 3.01,
+    "cost": 0.5
+  },
+  {
+    "source": "rs128",
+    "target": "rs131",
+    "distance": 4.55,
+    "cost": 0.68
+  },
+  {
+    "source": "rs128",
+    "target": "rs148",
+    "distance": 2.01,
+    "cost": 0.36
+  },
+  {
+    "source": "rs129",
+    "target": "rs46",
+    "distance": 3.63,
+    "cost": 0.53
+  },
+  {
+    "source": "rs129",
+    "target": "rs133",
+    "distance": 1.21,
+    "cost": 0.17
+  },
+  {
+    "source": "rs130",
+    "target": "rs195",
+    "distance": 11.93,
+    "cost": 2.34
+  },
+  {
+    "source": "rs132",
+    "target": "rs147",
+    "distance": 5.03,
+    "cost": 0.4
+  },
+  {
+    "source": "rs132",
+    "target": "rs4",
+    "distance": 7.8,
+    "cost": 1.3
+  },
+  {
+    "source": "rs132",
+    "target": "rs188",
+    "distance": 1.58,
+    "cost": 0.28
+  },
+  {
+    "source": "rs132",
+    "target": "rs158",
+    "distance": 1.33,
+    "cost": 0.26
+  },
+  {
+    "source": "rs133",
+    "target": "rs164",
+    "distance": 9.1,
+    "cost": 1.21
+  },
+  {
+    "source": "rs133",
+    "target": "rs14",
+    "distance": 10.92,
+    "cost": 1.0
+  },
+  {
+    "source": "rs133",
+    "target": "rs66",
+    "distance": 5.49,
+    "cost": 0.58
+  },
+  {
+    "source": "rs134",
+    "target": "rs199",
+    "distance": 4.19,
+    "cost": 0.51
+  },
+  {
+    "source": "rs134",
+    "target": "rs166",
+    "distance": 2.49,
+    "cost": 0.3
+  },
+  {
+    "source": "rs134",
+    "target": "rs174",
+    "distance": 11.68,
+    "cost": 1.73
+  },
+  {
+    "source": "rs135",
+    "target": "rs166",
+    "distance": 3.97,
+    "cost": 0.42
+  },
+  {
+    "source": "rs135",
+    "target": "rs199",
+    "distance": 1.49,
+    "cost": 0.22
+  },
+  {
+    "source": "rs135",
+    "target": "rs88",
+    "distance": 11.13,
+    "cost": 2.02
+  },
+  {
+    "source": "rs137",
+    "target": "rs143",
+    "distance": 4.39,
+    "cost": 0.62
+  },
+  {
+    "source": "rs138",
+    "target": "rs53",
+    "distance": 7.13,
+    "cost": 1.24
+  },
+  {
+    "source": "rs138",
+    "target": "rs56",
+    "distance": 11.68,
+    "cost": 1.12
+  },
+  {
+    "source": "rs138",
+    "target": "rs75",
+    "distance": 8.08,
+    "cost": 0.92
+  },
+  {
+    "source": "rs140",
+    "target": "rs184",
+    "distance": 8.8,
+    "cost": 1.73
+  },
+  {
+    "source": "rs142",
+    "target": "rs165",
+    "distance": 3.53,
+    "cost": 0.4
+  },
+  {
+    "source": "rs142",
+    "target": "rs30",
+    "distance": 6.52,
+    "cost": 1.11
+  },
+  {
+    "source": "rs142",
+    "target": "rs157",
+    "distance": 8.46,
+    "cost": 1.29
+  },
+  {
+    "source": "rs143",
+    "target": "rs149",
+    "distance": 3.44,
+    "cost": 0.68
+  },
+  {
+    "source": "rs143",
+    "target": "rs176",
+    "distance": 8.43,
+    "cost": 0.84
+  },
+  {
+    "source": "rs143",
+    "target": "rs169",
+    "distance": 2.84,
+    "cost": 0.26
+  },
+  {
+    "source": "rs144",
+    "target": "rs160",
+    "distance": 7.19,
+    "cost": 1.39
+  },
+  {
+    "source": "rs144",
+    "target": "rs185",
+    "distance": 5.1,
+    "cost": 0.74
+  },
+  {
+    "source": "rs145",
+    "target": "rs173",
+    "distance": 4.59,
+    "cost": 0.38
+  },
+  {
+    "source": "rs145",
+    "target": "rs153",
+    "distance": 4.08,
+    "cost": 0.64
+  },
+  {
+    "source": "rs103",
+    "target": "rs145",
+    "distance": 2.38,
+    "cost": 0.32
+  },
+  {
+    "source": "rs146",
+    "target": "rs18",
+    "distance": 11.55,
+    "cost": 1.06
+  },
+  {
+    "source": "rs146",
+    "target": "rs153",
+    "distance": 5.32,
+    "cost": 0.81
+  },
+  {
+    "source": "rs146",
+    "target": "rs166",
+    "distance": 3.06,
+    "cost": 0.45
+  },
+  {
+    "source": "rs147",
+    "target": "rs188",
+    "distance": 1.76,
+    "cost": 0.3
+  },
+  {
+    "source": "rs147",
+    "target": "rs158",
+    "distance": 7.95,
+    "cost": 1.45
+  },
+  {
+    "source": "rs148",
+    "target": "rs187",
+    "distance": 2.38,
+    "cost": 0.26
+  },
+  {
+    "source": "rs149",
+    "target": "rs176",
+    "distance": 4.98,
+    "cost": 0.49
+  },
+  {
+    "source": "rs106",
+    "target": "rs150",
+    "distance": 8.18,
+    "cost": 0.95
+  },
+  {
+    "source": "rs127",
+    "target": "rs151",
+    "distance": 7.89,
+    "cost": 0.87
+  },
+  {
+    "source": "rs152",
+    "target": "rs194",
+    "distance": 5.95,
+    "cost": 0.61
+  },
+  {
+    "source": "rs152",
+    "target": "rs157",
+    "distance": 11.7,
+    "cost": 2.1
+  },
+  {
+    "source": "rs152",
+    "target": "rs165",
+    "distance": 11.95,
+    "cost": 2.37
+  },
+  {
+    "source": "rs154",
+    "target": "rs178",
+    "distance": 5.07,
+    "cost": 0.45
+  },
+  {
+    "source": "rs154",
+    "target": "rs155",
+    "distance": 7.99,
+    "cost": 0.8
+  },
+  {
+    "source": "rs155",
+    "target": "rs178",
+    "distance": 6.49,
+    "cost": 1.0
+  },
+  {
+    "source": "rs155",
+    "target": "rs156",
+    "distance": 1.62,
+    "cost": 0.14
+  },
+  {
+    "source": "rs157",
+    "target": "rs193",
+    "distance": 7.25,
+    "cost": 1.1
+  },
+  {
+    "source": "rs158",
+    "target": "rs188",
+    "distance": 3.47,
+    "cost": 0.44
+  },
+  {
+    "source": "rs158",
+    "target": "rs41",
+    "distance": 1.85,
+    "cost": 0.24
+  },
+  {
+    "source": "rs159",
+    "target": "rs175",
+    "distance": 1.23,
+    "cost": 0.2
+  },
+  {
+    "source": "rs159",
+    "target": "rs63",
+    "distance": 8.21,
+    "cost": 1.25
+  },
+  {
+    "source": "rs159",
+    "target": "rs71",
+    "distance": 3.54,
+    "cost": 0.66
+  },
+  {
+    "source": "rs160",
+    "target": "rs185",
+    "distance": 7.19,
+    "cost": 1.24
+  },
+  {
+    "source": "rs160",
+    "target": "rs76",
+    "distance": 7.46,
+    "cost": 0.67
+  },
+  {
+    "source": "rs161",
+    "target": "rs180",
+    "distance": 7.69,
+    "cost": 1.17
+  },
+  {
+    "source": "rs150",
+    "target": "rs161",
+    "distance": 5.3,
+    "cost": 0.58
+  },
+  {
+    "source": "rs161",
+    "target": "rs98",
+    "distance": 10.56,
+    "cost": 1.35
+  },
+  {
+    "source": "rs161",
+    "target": "rs46",
+    "distance": 2.37,
+    "cost": 0.46
+  },
+  {
+    "source": "rs162",
+    "target": "rs192",
+    "distance": 5.97,
+    "cost": 0.74
+  },
+  {
+    "source": "rs162",
+    "target": "rs166",
+    "distance": 3.9,
+    "cost": 0.39
+  },
+  {
+    "source": "rs163",
+    "target": "rs168",
+    "distance": 4.03,
+    "cost": 0.62
+  },
+  {
+    "source": "rs163",
+    "target": "rs195",
+    "distance": 8.91,
+    "cost": 1.37
+  },
+  {
+    "source": "rs163",
+    "target": "rs2",
+    "distance": 4.06,
+    "cost": 0.65
+  },
+  {
+    "source": "rs164",
+    "target": "rs66",
+    "distance": 11.66,
+    "cost": 1.18
+  },
+  {
+    "source": "rs165",
+    "target": "rs194",
+    "distance": 10.02,
+    "cost": 1.49
+  },
+  {
+    "source": "rs166",
+    "target": "rs199",
+    "distance": 3.71,
+    "cost": 0.65
+  },
+  {
+    "source": "rs167",
+    "target": "rs177",
+    "distance": 6.34,
+    "cost": 0.81
+  },
+  {
+    "source": "rs123",
+    "target": "rs167",
+    "distance": 7.3,
+    "cost": 1.41
+  },
+  {
+    "source": "rs168",
+    "target": "rs177",
+    "distance": 8.01,
+    "cost": 1.34
+  },
+  {
+    "source": "rs169",
+    "target": "rs176",
+    "distance": 5.37,
+    "cost": 0.97
+  },
+  {
+    "source": "rs169",
+    "target": "rs2",
+    "distance": 1.08,
+    "cost": 0.2
+  },
+  {
+    "source": "rs171",
+    "target": "rs189",
+    "distance": 11.31,
+    "cost": 1.55
+  },
+  {
+    "source": "rs171",
+    "target": "rs198",
+    "distance": 4.31,
+    "cost": 0.67
+  },
+  {
+    "source": "rs172",
+    "target": "rs190",
+    "distance": 1.91,
+    "cost": 0.34
+  },
+  {
+    "source": "rs172",
+    "target": "rs179",
+    "distance": 11.48,
+    "cost": 1.32
+  },
+  {
+    "source": "rs173",
+    "target": "rs186",
+    "distance": 4.07,
+    "cost": 0.35
+  },
+  {
+    "source": "rs171",
+    "target": "rs173",
+    "distance": 4.09,
+    "cost": 0.59
+  },
+  {
+    "source": "rs175",
+    "target": "rs63",
+    "distance": 2.15,
+    "cost": 0.32
+  },
+  {
+    "source": "rs177",
+    "target": "rs96",
+    "distance": 5.04,
+    "cost": 0.42
+  },
+  {
+    "source": "rs178",
+    "target": "rs40",
+    "distance": 11.44,
+    "cost": 1.2
+  },
+  {
+    "source": "rs179",
+    "target": "rs190",
+    "distance": 11.16,
+    "cost": 1.38
+  },
+  {
+    "source": "rs126",
+    "target": "rs180",
+    "distance": 9.5,
+    "cost": 1.37
+  },
+  {
+    "source": "rs150",
+    "target": "rs180",
+    "distance": 8.9,
+    "cost": 0.75
+  },
+  {
+    "source": "rs15",
+    "target": "rs182",
+    "distance": 5.64,
+    "cost": 1.0
+  },
+  {
+    "source": "rs183",
+    "target": "rs197",
+    "distance": 1.72,
+    "cost": 0.24
+  },
+  {
+    "source": "rs186",
+    "target": "rs74",
+    "distance": 1.7,
+    "cost": 0.25
+  },
+  {
+    "source": "rs171",
+    "target": "rs186",
+    "distance": 9.44,
+    "cost": 1.03
+  },
+  {
+    "source": "rs145",
+    "target": "rs186",
+    "distance": 9.26,
+    "cost": 1.42
+  },
+  {
+    "source": "rs131",
+    "target": "rs187",
+    "distance": 10.94,
+    "cost": 1.19
+  },
+  {
+    "source": "rs187",
+    "target": "rs9",
+    "distance": 2.87,
+    "cost": 0.34
+  },
+  {
+    "source": "rs117",
+    "target": "rs189",
+    "distance": 4.68,
+    "cost": 0.63
+  },
+  {
+    "source": "rs189",
+    "target": "rs60",
+    "distance": 9.86,
+    "cost": 1.47
+  },
+  {
+    "source": "rs189",
+    "target": "rs48",
+    "distance": 3.02,
+    "cost": 0.24
+  },
+  {
+    "source": "rs190",
+    "target": "rs32",
+    "distance": 6.01,
+    "cost": 1.19
+  },
+  {
+    "source": "rs188",
+    "target": "rs191",
+    "distance": 8.74,
+    "cost": 1.38
+  },
+  {
+    "source": "rs158",
+    "target": "rs191",
+    "distance": 9.4,
+    "cost": 1.31
+  },
+  {
+    "source": "rs166",
+    "target": "rs192",
+    "distance": 1.18,
+    "cost": 0.17
+  },
+  {
+    "source": "rs192",
+    "target": "rs58",
+    "distance": 2.13,
+    "cost": 0.41
+  },
+  {
+    "source": "rs193",
+    "target": "rs81",
+    "distance": 4.86,
+    "cost": 0.41
+  },
+  {
+    "source": "rs142",
+    "target": "rs193",
+    "distance": 9.48,
+    "cost": 1.02
+  },
+  {
+    "source": "rs157",
+    "target": "rs194",
+    "distance": 10.74,
+    "cost": 1.87
+  },
+  {
+    "source": "rs194",
+    "target": "rs30",
+    "distance": 9.68,
+    "cost": 1.31
+  },
+  {
+    "source": "rs172",
+    "target": "rs196",
+    "distance": 3.07,
+    "cost": 0.48
+  },
+  {
+    "source": "rs196",
+    "target": "rs3",
+    "distance": 11.16,
+    "cost": 1.82
+  },
+  {
+    "source": "rs190",
+    "target": "rs196",
+    "distance": 3.86,
+    "cost": 0.43
+  },
+  {
+    "source": "rs181",
+    "target": "rs198",
+    "distance": 8.82,
+    "cost": 1.63
+  },
+  {
+    "source": "rs174",
+    "target": "rs199",
+    "distance": 8.0,
+    "cost": 0.93
+  },
+  {
+    "source": "rs108",
+    "target": "rs200",
+    "distance": 3.81,
+    "cost": 0.61
+  },
+  {
+    "source": "rs101",
+    "target": "rs200",
+    "distance": 11.04,
+    "cost": 1.43
+  },
+  {
+    "source": "rs190",
+    "target": "rs200",
+    "distance": 5.87,
+    "cost": 1.07
+  }
+]

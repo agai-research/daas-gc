@@ -1,0 +1,222 @@
+[
+  {
+    "id": "d1",
+    "payload": 2.69,
+    "battery": 149.0,
+    "range_km": 32.22,
+    "speed_kmh": 43.99,
+    "cost_per_km": 0.316,
+    "availability": 0.851,
+    "reputation": 0.944,
+    "home_station": "rs58"
+  },
+  {
+    "id": "d2",
+    "payload": 2.69,
+    "battery": 207.0,
+    "range_km": 37.47,
+    "speed_kmh": 42.31,
+    "cost_per_km": 0.279,
+    "availability": 0.99,
+    "reputation": 0.605,
+    "home_station": "rs133"
+  },
+  {
+    "id": "d3",
+    "payload": 2.45,
+    "battery": 255.5,
+    "range_km": 69.72,
+    "speed_kmh": 42.08,
+    "cost_per_km": 0.313,
+    "availability": 0.951,
+    "reputation": 0.987,
+    "home_station": "rs4"
+  },
+  {
+    "id": "d4",
+    "payload": 2.2,
+    "battery": 91.4,
+    "range_km": 19.83,
+    "speed_kmh": 41.24,
+    "cost_per_km": 0.206,
+    "availability": 0.858,
+    "reputation": 0.772,
+    "home_station": "rs45"
+  },
+  {
+    "id": "d5",
+    "payload": 2.84,
+    "battery": 147.4,
+    "range_km": 33.87,
+    "speed_kmh": 40.82,
+    "cost_per_km": 0.313,
+    "availability": 0.857,
+    "reputation": 0.7,
+    "home_station": "rs150"
+  },
+  {
+    "id": "d6",
+    "payload": 2.83,
+    "battery": 212.1,
+    "range_km": 68.24,
+    "speed_kmh": 42.07,
+    "cost_per_km": 0.337,
+    "availability": 0.947,
+    "reputation": 0.981,
+    "home_station": "rs106"
+  },
+  {
+    "id": "d7",
+    "payload": 2.61,
+    "battery": 182.5,
+    "range_km": 35.31,
+    "speed_kmh": 44.28,
+    "cost_per_km": 0.239,
+    "availability": 0.883,
+    "reputation": 0.906,
+    "home_station": "rs97"
+  },
+  {
+    "id": "d8",
+    "payload": 2.4,
+    "battery": 154.7,
+    "range_km": 42.34,
+    "speed_kmh": 43.24,
+    "cost_per_km": 0.132,
+    "availability": 0.852,
+    "reputation": 0.846,
+    "home_station": "rs60"
+  },
+  {
+    "id": "d9",
+    "payload": 2.62,
+    "battery": 203.9,
+    "range_km": 44.87,
+    "speed_kmh": 43.67,
+    "cost_per_km": 0.259,
+    "availability": 0.97,
+    "reputation": 0.646,
+    "home_station": "rs240"
+  },
+  {
+    "id": "d10",
+    "payload": 2.43,
+    "battery": 231.1,
+    "range_km": 55.93,
+    "speed_kmh": 41.23,
+    "cost_per_km": 0.274,
+    "availability": 0.992,
+    "reputation": 0.835,
+    "home_station": "rs111"
+  },
+  {
+    "id": "d11",
+    "payload": 2.4,
+    "battery": 130.3,
+    "range_km": 31.01,
+    "speed_kmh": 42.93,
+    "cost_per_km": 0.192,
+    "availability": 0.87,
+    "reputation": 0.843,
+    "home_station": "rs5"
+  },
+  {
+    "id": "d12",
+    "payload": 2.68,
+    "battery": 236.9,
+    "range_km": 57.99,
+    "speed_kmh": 38.56,
+    "cost_per_km": 0.107,
+    "availability": 0.967,
+    "reputation": 0.612,
+    "home_station": "rs183"
+  },
+  {
+    "id": "d13",
+    "payload": 2.4,
+    "battery": 90.1,
+    "range_km": 15.37,
+    "speed_kmh": 43.17,
+    "cost_per_km": 0.348,
+    "availability": 0.991,
+    "reputation": 0.664,
+    "home_station": "rs1"
+  },
+  {
+    "id": "d14",
+    "payload": 2.71,
+    "battery": 94.2,
+    "range_km": 23.4,
+    "speed_kmh": 46.57,
+    "cost_per_km": 0.318,
+    "availability": 0.984,
+    "reputation": 0.841,
+    "home_station": "rs119"
+  },
+  {
+    "id": "d15",
+    "payload": 2.78,
+    "battery": 111.1,
+    "range_km": 20.34,
+    "speed_kmh": 42.88,
+    "cost_per_km": 0.299,
+    "availability": 0.873,
+    "reputation": 0.642,
+    "home_station": "rs237"
+  },
+  {
+    "id": "d16",
+    "payload": 2.59,
+    "battery": 240.1,
+    "range_km": 45.07,
+    "speed_kmh": 39.64,
+    "cost_per_km": 0.081,
+    "availability": 0.996,
+    "reputation": 0.817,
+    "home_station": "rs38"
+  },
+  {
+    "id": "d17",
+    "payload": 2.84,
+    "battery": 201.5,
+    "range_km": 51.36,
+    "speed_kmh": 42.82,
+    "cost_per_km": 0.067,
+    "availability": 0.998,
+    "reputation": 0.979,
+    "home_station": "rs56"
+  },
+  {
+    "id": "d18",
+    "payload": 2.58,
+    "battery": 207.8,
+    "range_km": 50.01,
+    "speed_kmh": 42.48,
+    "cost_per_km": 0.088,
+    "availability": 0.958,
+    "reputation": 0.836,
+    "home_station": "rs249"
+  },
+  {
+    "id": "d19",
+    "payload": 2.57,
+    "battery": 205.6,
+    "range_km": 47.17,
+    "speed_kmh": 43.05,
+    "cost_per_km": 0.234,
+    "availability": 0.952,
+    "reputation": 0.873,
+    "home_station": "rs167"
+  },
+  {
+    "id": "d20",
+    "payload": 2.53,
+    "battery": 102.5,
+    "range_km": 32.34,
+    "speed_kmh": 43.81,
+    "cost_per_km": 0.101,
+    "availability": 0.899,
+    "reputation": 0.674,
+    "home_station": "rs69"
+  }
+]

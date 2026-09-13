@@ -1,0 +1,462 @@
+[
+  {
+    "id": "req1",
+    "source": "rs246",
+    "target": "rs227",
+    "items": [
+      {
+        "id": "it1",
+        "weight": 0.132
+      },
+      {
+        "id": "it2",
+        "weight": 0.252
+      },
+      {
+        "id": "it3",
+        "weight": 0.188
+      },
+      {
+        "id": "it4",
+        "weight": 1.078
+      },
+      {
+        "id": "it5",
+        "weight": 0.667
+      },
+      {
+        "id": "it6",
+        "weight": 0.048
+      },
+      {
+        "id": "it7",
+        "weight": 0.423
+      },
+      {
+        "id": "it8",
+        "weight": 0.211
+      }
+    ],
+    "weights": {
+      "w1": 0.4,
+      "w2": 0.2,
+      "w3": 0.3,
+      "w4": 0.1
+    },
+    "package_weight_g": 3000
+  },
+  {
+    "id": "req2",
+    "source": "rs84",
+    "target": "rs252",
+    "items": [
+      {
+        "id": "it1",
+        "weight": 0.361
+      },
+      {
+        "id": "it2",
+        "weight": 0.342
+      },
+      {
+        "id": "it3",
+        "weight": 0.02
+      },
+      {
+        "id": "it4",
+        "weight": 0.135
+      },
+      {
+        "id": "it5",
+        "weight": 0.13
+      },
+      {
+        "id": "it6",
+        "weight": 1.711
+      },
+      {
+        "id": "it7",
+        "weight": 0.218
+      },
+      {
+        "id": "it8",
+        "weight": 0.082
+      }
+    ],
+    "weights": {
+      "w1": 0.2,
+      "w2": 0.45,
+      "w3": 0.2,
+      "w4": 0.15
+    },
+    "package_weight_g": 3000
+  },
+  {
+    "id": "req3",
+    "source": "rs283",
+    "target": "rs27",
+    "items": [
+      {
+        "id": "it1",
+        "weight": 0.138
+      },
+      {
+        "id": "it2",
+        "weight": 0.01
+      },
+      {
+        "id": "it3",
+        "weight": 0.82
+      },
+      {
+        "id": "it4",
+        "weight": 0.208
+      },
+      {
+        "id": "it5",
+        "weight": 0.026
+      },
+      {
+        "id": "it6",
+        "weight": 0.02
+      },
+      {
+        "id": "it7",
+        "weight": 0.122
+      },
+      {
+        "id": "it8",
+        "weight": 0.661
+      }
+    ],
+    "weights": {
+      "w1": 0.2,
+      "w2": 0.2,
+      "w3": 0.2,
+      "w4": 0.4
+    },
+    "package_weight_g": 2000
+  },
+  {
+    "id": "req4",
+    "source": "rs52",
+    "target": "rs232",
+    "items": [
+      {
+        "id": "it1",
+        "weight": 1.42
+      },
+      {
+        "id": "it2",
+        "weight": 0.795
+      },
+      {
+        "id": "it3",
+        "weight": 0.338
+      },
+      {
+        "id": "it4",
+        "weight": 0.065
+      },
+      {
+        "id": "it5",
+        "weight": 0.156
+      },
+      {
+        "id": "it6",
+        "weight": 0.493
+      },
+      {
+        "id": "it7",
+        "weight": 0.169
+      },
+      {
+        "id": "it8",
+        "weight": 0.565
+      }
+    ],
+    "weights": {
+      "w1": 0.25,
+      "w2": 0.25,
+      "w3": 0.25,
+      "w4": 0.25
+    },
+    "package_weight_g": 4000
+  },
+  {
+    "id": "req5",
+    "source": "rs89",
+    "target": "rs131",
+    "items": [
+      {
+        "id": "it1",
+        "weight": 0.47
+      },
+      {
+        "id": "it2",
+        "weight": 0.804
+      },
+      {
+        "id": "it3",
+        "weight": 1.304
+      },
+      {
+        "id": "it4",
+        "weight": 0.154
+      },
+      {
+        "id": "it5",
+        "weight": 0.509
+      },
+      {
+        "id": "it6",
+        "weight": 0.063
+      },
+      {
+        "id": "it7",
+        "weight": 0.21
+      },
+      {
+        "id": "it8",
+        "weight": 0.485
+      }
+    ],
+    "weights": {
+      "w1": 0.4,
+      "w2": 0.2,
+      "w3": 0.3,
+      "w4": 0.1
+    },
+    "package_weight_g": 4000
+  },
+  {
+    "id": "req6",
+    "source": "rs171",
+    "target": "rs31",
+    "items": [
+      {
+        "id": "it1",
+        "weight": 1.748
+      },
+      {
+        "id": "it2",
+        "weight": 0.37
+      },
+      {
+        "id": "it3",
+        "weight": 0.633
+      },
+      {
+        "id": "it4",
+        "weight": 0.468
+      },
+      {
+        "id": "it5",
+        "weight": 0.164
+      },
+      {
+        "id": "it6",
+        "weight": 0.795
+      },
+      {
+        "id": "it7",
+        "weight": 0.371
+      },
+      {
+        "id": "it8",
+        "weight": 0.451
+      }
+    ],
+    "weights": {
+      "w1": 0.2,
+      "w2": 0.45,
+      "w3": 0.2,
+      "w4": 0.15
+    },
+    "package_weight_g": 5000
+  },
+  {
+    "id": "req7",
+    "source": "rs8",
+    "target": "rs11",
+    "items": [
+      {
+        "id": "it1",
+        "weight": 0.078
+      },
+      {
+        "id": "it2",
+        "weight": 0.348
+      },
+      {
+        "id": "it3",
+        "weight": 0.887
+      },
+      {
+        "id": "it4",
+        "weight": 0.397
+      },
+      {
+        "id": "it5",
+        "weight": 0.133
+      },
+      {
+        "id": "it6",
+        "weight": 0.241
+      },
+      {
+        "id": "it7",
+        "weight": 0.561
+      },
+      {
+        "id": "it8",
+        "weight": 0.355
+      }
+    ],
+    "weights": {
+      "w1": 0.2,
+      "w2": 0.2,
+      "w3": 0.2,
+      "w4": 0.4
+    },
+    "package_weight_g": 3000
+  },
+  {
+    "id": "req8",
+    "source": "rs24",
+    "target": "rs221",
+    "items": [
+      {
+        "id": "it1",
+        "weight": 1.24
+      },
+      {
+        "id": "it2",
+        "weight": 0.467
+      },
+      {
+        "id": "it3",
+        "weight": 1.408
+      },
+      {
+        "id": "it4",
+        "weight": 0.036
+      },
+      {
+        "id": "it5",
+        "weight": 0.551
+      },
+      {
+        "id": "it6",
+        "weight": 0.29
+      },
+      {
+        "id": "it7",
+        "weight": 0.485
+      },
+      {
+        "id": "it8",
+        "weight": 0.523
+      }
+    ],
+    "weights": {
+      "w1": 0.25,
+      "w2": 0.25,
+      "w3": 0.25,
+      "w4": 0.25
+    },
+    "package_weight_g": 5000
+  },
+  {
+    "id": "req9",
+    "source": "rs237",
+    "target": "rs20",
+    "items": [
+      {
+        "id": "it1",
+        "weight": 0.268
+      },
+      {
+        "id": "it2",
+        "weight": 0.409
+      },
+      {
+        "id": "it3",
+        "weight": 0.15
+      },
+      {
+        "id": "it4",
+        "weight": 0.364
+      },
+      {
+        "id": "it5",
+        "weight": 0.29
+      },
+      {
+        "id": "it6",
+        "weight": 0.235
+      },
+      {
+        "id": "it7",
+        "weight": 0.014
+      },
+      {
+        "id": "it8",
+        "weight": 0.269
+      }
+    ],
+    "weights": {
+      "w1": 0.4,
+      "w2": 0.2,
+      "w3": 0.3,
+      "w4": 0.1
+    },
+    "package_weight_g": 2000
+  },
+  {
+    "id": "req10",
+    "source": "rs129",
+    "target": "rs158",
+    "items": [
+      {
+        "id": "it1",
+        "weight": 0.045
+      },
+      {
+        "id": "it2",
+        "weight": 0.016
+      },
+      {
+        "id": "it3",
+        "weight": 0.031
+      },
+      {
+        "id": "it4",
+        "weight": 0.239
+      },
+      {
+        "id": "it5",
+        "weight": 0.023
+      },
+      {
+        "id": "it6",
+        "weight": 0.286
+      },
+      {
+        "id": "it7",
+        "weight": 0.265
+      },
+      {
+        "id": "it8",
+        "weight": 0.094
+      }
+    ],
+    "weights": {
+      "w1": 0.2,
+      "w2": 0.45,
+      "w3": 0.2,
+      "w4": 0.15
+    },
+    "package_weight_g": 1000
+  }
+]

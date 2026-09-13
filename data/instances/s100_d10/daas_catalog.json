@@ -1,0 +1,260 @@
+[
+  {
+    "id": "d1_daas1",
+    "drone_id": "d1",
+    "operation": "food",
+    "price": 3.89
+  },
+  {
+    "id": "d1_daas2",
+    "drone_id": "d1",
+    "operation": "medical",
+    "price": 19.21
+  },
+  {
+    "id": "d1_daas3",
+    "drone_id": "d1",
+    "operation": "food",
+    "price": 19.87
+  },
+  {
+    "id": "d1_daas4",
+    "drone_id": "d1",
+    "operation": "documents",
+    "price": 14.18
+  },
+  {
+    "id": "d2_daas1",
+    "drone_id": "d2",
+    "operation": "medical",
+    "price": 3.89
+  },
+  {
+    "id": "d2_daas2",
+    "drone_id": "d2",
+    "operation": "documents",
+    "price": 7.54
+  },
+  {
+    "id": "d2_daas3",
+    "drone_id": "d2",
+    "operation": "medical",
+    "price": 18.43
+  },
+  {
+    "id": "d3_daas1",
+    "drone_id": "d3",
+    "operation": "documents",
+    "price": 17.33
+  },
+  {
+    "id": "d3_daas2",
+    "drone_id": "d3",
+    "operation": "documents",
+    "price": 8.4
+  },
+  {
+    "id": "d3_daas3",
+    "drone_id": "d3",
+    "operation": "parcel",
+    "price": 8.88
+  },
+  {
+    "id": "d3_daas4",
+    "drone_id": "d3",
+    "operation": "medical",
+    "price": 7.73
+  },
+  {
+    "id": "d4_daas1",
+    "drone_id": "d4",
+    "operation": "parcel",
+    "price": 18.81
+  },
+  {
+    "id": "d4_daas2",
+    "drone_id": "d4",
+    "operation": "medical",
+    "price": 8.66
+  },
+  {
+    "id": "d4_daas3",
+    "drone_id": "d4",
+    "operation": "documents",
+    "price": 21.6
+  },
+  {
+    "id": "d4_daas4",
+    "drone_id": "d4",
+    "operation": "documents",
+    "price": 22.75
+  },
+  {
+    "id": "d4_daas5",
+    "drone_id": "d4",
+    "operation": "food",
+    "price": 24.72
+  },
+  {
+    "id": "d4_daas6",
+    "drone_id": "d4",
+    "operation": "parcel",
+    "price": 18.53
+  },
+  {
+    "id": "d5_daas1",
+    "drone_id": "d5",
+    "operation": "documents",
+    "price": 6.74
+  },
+  {
+    "id": "d5_daas2",
+    "drone_id": "d5",
+    "operation": "documents",
+    "price": 18.39
+  },
+  {
+    "id": "d5_daas3",
+    "drone_id": "d5",
+    "operation": "parcel",
+    "price": 11.56
+  },
+  {
+    "id": "d5_daas4",
+    "drone_id": "d5",
+    "operation": "documents",
+    "price": 3.46
+  },
+  {
+    "id": "d6_daas1",
+    "drone_id": "d6",
+    "operation": "parcel",
+    "price": 19.96
+  },
+  {
+    "id": "d6_daas2",
+    "drone_id": "d6",
+    "operation": "documents",
+    "price": 17.01
+  },
+  {
+    "id": "d6_daas3",
+    "drone_id": "d6",
+    "operation": "medical",
+    "price": 3.23
+  },
+  {
+    "id": "d7_daas1",
+    "drone_id": "d7",
+    "operation": "medical",
+    "price": 18.39
+  },
+  {
+    "id": "d7_daas2",
+    "drone_id": "d7",
+    "operation": "medical",
+    "price": 23.52
+  },
+  {
+    "id": "d7_daas3",
+    "drone_id": "d7",
+    "operation": "medical",
+    "price": 14.97
+  },
+  {
+    "id": "d8_daas1",
+    "drone_id": "d8",
+    "operation": "food",
+    "price": 18.44
+  },
+  {
+    "id": "d8_daas2",
+    "drone_id": "d8",
+    "operation": "food",
+    "price": 3.18
+  },
+  {
+    "id": "d8_daas3",
+    "drone_id": "d8",
+    "operation": "parcel",
+    "price": 15.17
+  },
+  {
+    "id": "d8_daas4",
+    "drone_id": "d8",
+    "operation": "medical",
+    "price": 10.47
+  },
+  {
+    "id": "d9_daas1",
+    "drone_id": "d9",
+    "operation": "documents",
+    "price": 6.76
+  },
+  {
+    "id": "d9_daas2",
+    "drone_id": "d9",
+    "operation": "documents",
+    "price": 9.37
+  },
+  {
+    "id": "d9_daas3",
+    "drone_id": "d9",
+    "operation": "documents",
+    "price": 23.92
+  },
+  {
+    "id": "d9_daas4",
+    "drone_id": "d9",
+    "operation": "parcel",
+    "price": 9.65
+  },
+  {
+    "id": "d9_daas5",
+    "drone_id": "d9",
+    "operation": "parcel",
+    "price": 7.9
+  },
+  {
+    "id": "d9_daas6",
+    "drone_id": "d9",
+    "operation": "food",
+    "price": 11.98
+  },
+  {
+    "id": "d10_daas1",
+    "drone_id": "d10",
+    "operation": "medical",
+    "price": 4.0
+  },
+  {
+    "id": "d10_daas2",
+    "drone_id": "d10",
+    "operation": "food",
+    "price": 11.79
+  },
+  {
+    "id": "d10_daas3",
+    "drone_id": "d10",
+    "operation": "documents",
+    "price": 10.98
+  },
+  {
+    "id": "d10_daas4",
+    "drone_id": "d10",
+    "operation": "medical",
+    "price": 21.49
+  },
+  {
+    "id": "d10_daas5",
+    "drone_id": "d10",
+    "operation": "parcel",
+    "price": 15.55
+  },
+  {
+    "id": "d10_daas6",
+    "drone_id": "d10",
+    "operation": "parcel",
+    "price": 22.33
+  }
+]
