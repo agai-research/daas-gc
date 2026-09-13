@@ -6,6 +6,10 @@ A\*-based delivery path search that exploits this partitioning, and a
 drone-formation selection algorithm that composes the best set of drone
 services for a delivery request.
 
+**Article:** Partitioning the Sky: A Region-based Graph Clustering Approach for the Composition of UAV Delivery Services
+**Authors:** Hela Elmannai, Haithem Mezni, Abeer D. Algarni
+
+
 ## 1. Dataset
 
 | Variable | Value |
