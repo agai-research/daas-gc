@@ -87,10 +87,7 @@ the d-drone fleet is the first d drones of one master fleet of 30).
 | Max weight per package / items per request | 5 kg / 8 |
 
 **Data provenance.** The drone attributes follow the schema of the public CMU KiLTHub dataset
-*Data Collected with Package Delivery Quadcopter Drone*, but that file is not redistributed here;
-the fleet is a synthetic stand-in drawn from the distributions in `build_fleet()` (payload
-0.8–3 kg, empty mass 2–6 kg, battery 200–500 Wh, 4–7 Wh/km empty, two supported pad types out of
-three, cost, availability and reputation).
+*Data Collected with Package Delivery Quadcopter Drone*, but that file is not redistributed here.
 
 ## 4. Delivery model (shared by all methods, `daasgc/delivery_model.py`)
 
