@@ -1,5 +1,4 @@
-"""Skyway path selection over the embedding subspace (DaaS_KGE-1.pdf,
-Algorithm 2). Restricted to the high-proximity candidate stations, a
+"""Skyway path selection over the embedding subspace. Restricted to the high-proximity candidate stations, a
 shortest-path search (equivalent to the paper's `delivery_paths()`
 Dijkstra routine) produces the candidate path, scored with the paper's
 weighted criteria (flight time, cost, number of stations).
