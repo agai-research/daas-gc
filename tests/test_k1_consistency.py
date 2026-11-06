@@ -1,5 +1,4 @@
-"""k = 1 must coincide with DaaS-SG (reviewer comment 2).
-
+"""
 With a single cluster, DaaS-GC and DaaS-HGC run the same exact A* over the
 whole sky network as DaaS-SG, so path, formation, cost and time must be
 identical. Run:  python tests/test_k1_consistency.py   (or pytest).
