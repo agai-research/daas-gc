@@ -3,10 +3,6 @@ in the visual style of the submitted manuscript.
 
     python plots/make_figures.py            # redraw every figure whose JSON exists
 
-Fig. 5 drone-cost-time.png, Fig. 6 stations-distance.png, Fig. 7 energy.png,
-Fig. 8 failure-boxplots.png, Fig. 9 comp-time-clusters-boxplots.png,
-Fig. 10 comp-time-sn-boxplots.png.
-
 Bars are means over the runs, box plots show the distribution over the runs.
 Experiments are run for every k = 1..10; Figs. 6, 7 and 9 show k = 1 (the
 single-cluster case, identical to DaaS-SG; reviewer comment 2) and the even
