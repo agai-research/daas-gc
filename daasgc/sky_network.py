@@ -1,4 +1,4 @@
-"""Sky network model for DaaS-GC (Table "Basic symbols and notations").
+"""Sky network model for DaaS-GC.
 
 A sky network is a weighted graph of recharging stations (nodes, with pad
 and charging attributes and planar coordinates in km) connected by skyway
