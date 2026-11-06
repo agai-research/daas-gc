@@ -2,12 +2,11 @@
 
 Implementation and experiments of the article *Partitioning the Sky: A Region-based Graph
 Clustering Approach for the Composition of UAV Delivery Services* (H. Elmannai, H. Mezni,
-A. D. Algarni): SCAN-based partitioning of a skyway network (Algorithm 1), A*-based delivery
-path search over the partitions (Algorithm 2, DaaS-GC; hyper-graph variant DaaS-HGC), drone
-formation selection (Algorithm 3), and the baselines DaaS-SG (exact A* on the whole network)
+A. D. Algarni): SCAN-based partitioning of a skyway network, A*-based delivery
+path search over the partitions, drone formation selection, and the baselines DaaS-SG (exact A* on the whole network)
 and DaaS-KGE (knowledge-graph embedding).
 
-## 1. Reproduce every figure (one command)
+## 1. Reproduce every figure
 
 ```bash
 git clone https://github.com/agai-research/daas-gc.git
@@ -73,7 +72,7 @@ purple `\\\`; 300 dpi.
 
 ## 3. Dataset
 
-`data/build_dataset.py` (deterministic: network seed = 10000 + #stations, fleet seed = 20000;
+`data/build_dataset.py` (network seed = 10000 + #stations, fleet seed = 20000;
 the d-drone fleet is the first d drones of one master fleet of 30).
 
 | Variable | Value |
@@ -144,5 +143,3 @@ processes (gensim uses a deterministic hash function and a single worker). After
 lists `results/` and `figures/` as modified: the JSON files also record each query's computation
 time, and PNG rendering (font anti-aliasing) can differ slightly between systems. All other values are
 unchanged; `git checkout -- results figures` restores the committed versions.
-
-See `CHANGELOG.md` for the differences with the version first shared with the reviewers.
