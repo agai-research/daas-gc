@@ -1,4 +1,4 @@
-"""Build the DaaS knowledge graph (DaaSKG), Definition 6 of DaaS_KGE-1.pdf.
+"""Build the DaaS knowledge graph (DaaSKG).
 
 DaaSKG = (E, R, D+): typed entities (drones Ed, delivery services Es,
 stations Er, pads Ep) linked by typed relations: ATTEND (drone->station),
