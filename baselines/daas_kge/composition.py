@@ -1,5 +1,4 @@
-"""Proximity-aware DaaS composition of DaaS-KGE (SCDaaS ranking, Eq. 11/12 of
-the DaaS-KGE paper). Candidate drones come from the embedding subspace; they
+"""Proximity-aware DaaS composition of DaaS-KGE. Candidate drones come from the embedding subspace; they
 are filtered with the same feasibility model as the other methods (flight
 range under load, pad compatibility), sorted by SCDaaS and greedily packed.
 """
