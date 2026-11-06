@@ -1,0 +1,512 @@
+[
+ {
+  "id": "d1",
+  "payload": 1.13,
+  "empty_mass": 3.75,
+  "battery": 286.6,
+  "wh_per_km": 6.577,
+  "range_km": 43.58,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.814,
+  "availability": 0.977,
+  "reputation": 0.643,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs241"
+ },
+ {
+  "id": "d2",
+  "payload": 2.17,
+  "empty_mass": 3.29,
+  "battery": 351.6,
+  "wh_per_km": 5.052,
+  "range_km": 69.6,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.383,
+  "availability": 0.986,
+  "reputation": 0.826,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs116"
+ },
+ {
+  "id": "d3",
+  "payload": 1.18,
+  "empty_mass": 5.66,
+  "battery": 414.5,
+  "wh_per_km": 6.693,
+  "range_km": 61.93,
+  "speed_kmh": 65.0,
+  "cost_per_km": 1.157,
+  "availability": 0.988,
+  "reputation": 0.678,
+  "supported_pads": [
+   "fixed",
+   "mobile"
+  ],
+  "home_station": "rs139"
+ },
+ {
+  "id": "d4",
+  "payload": 1.55,
+  "empty_mass": 2.61,
+  "battery": 301.9,
+  "wh_per_km": 4.258,
+  "range_km": 70.9,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.715,
+  "availability": 0.852,
+  "reputation": 0.799,
+  "supported_pads": [
+   "fixed",
+   "mobile"
+  ],
+  "home_station": "rs286"
+ },
+ {
+  "id": "d5",
+  "payload": 2.66,
+  "empty_mass": 4.11,
+  "battery": 400.2,
+  "wh_per_km": 6.893,
+  "range_km": 58.06,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.889,
+  "availability": 0.973,
+  "reputation": 0.801,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs125"
+ },
+ {
+  "id": "d6",
+  "payload": 2.84,
+  "empty_mass": 3.78,
+  "battery": 299.7,
+  "wh_per_km": 4.58,
+  "range_km": 65.44,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.699,
+  "availability": 0.857,
+  "reputation": 0.793,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs219"
+ },
+ {
+  "id": "d7",
+  "payload": 0.88,
+  "empty_mass": 2.41,
+  "battery": 455.6,
+  "wh_per_km": 4.026,
+  "range_km": 113.16,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.991,
+  "availability": 0.976,
+  "reputation": 0.985,
+  "supported_pads": [
+   "fixed",
+   "wireless"
+  ],
+  "home_station": "rs152"
+ },
+ {
+  "id": "d8",
+  "payload": 2.4,
+  "empty_mass": 2.27,
+  "battery": 471.9,
+  "wh_per_km": 6.594,
+  "range_km": 71.57,
+  "speed_kmh": 65.0,
+  "cost_per_km": 1.145,
+  "availability": 0.952,
+  "reputation": 0.917,
+  "supported_pads": [
+   "fixed",
+   "mobile"
+  ],
+  "home_station": "rs249"
+ },
+ {
+  "id": "d9",
+  "payload": 2.32,
+  "empty_mass": 5.48,
+  "battery": 218.3,
+  "wh_per_km": 6.081,
+  "range_km": 35.9,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.65,
+  "availability": 0.922,
+  "reputation": 0.702,
+  "supported_pads": [
+   "fixed",
+   "wireless"
+  ],
+  "home_station": "rs65"
+ },
+ {
+  "id": "d10",
+  "payload": 2.58,
+  "empty_mass": 3.66,
+  "battery": 480.3,
+  "wh_per_km": 5.005,
+  "range_km": 95.96,
+  "speed_kmh": 65.0,
+  "cost_per_km": 1.007,
+  "availability": 0.888,
+  "reputation": 0.985,
+  "supported_pads": [
+   "fixed",
+   "mobile"
+  ],
+  "home_station": "rs98"
+ },
+ {
+  "id": "d11",
+  "payload": 1.23,
+  "empty_mass": 3.24,
+  "battery": 479.4,
+  "wh_per_km": 5.156,
+  "range_km": 92.98,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.918,
+  "availability": 0.886,
+  "reputation": 0.712,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs148"
+ },
+ {
+  "id": "d12",
+  "payload": 2.98,
+  "empty_mass": 2.92,
+  "battery": 437.5,
+  "wh_per_km": 6.47,
+  "range_km": 67.62,
+  "speed_kmh": 65.0,
+  "cost_per_km": 1.186,
+  "availability": 0.933,
+  "reputation": 0.665,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs208"
+ },
+ {
+  "id": "d13",
+  "payload": 1.71,
+  "empty_mass": 3.36,
+  "battery": 365.3,
+  "wh_per_km": 6.402,
+  "range_km": 57.06,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.528,
+  "availability": 0.897,
+  "reputation": 0.772,
+  "supported_pads": [
+   "fixed",
+   "mobile"
+  ],
+  "home_station": "rs192"
+ },
+ {
+  "id": "d14",
+  "payload": 1.37,
+  "empty_mass": 3.78,
+  "battery": 438.2,
+  "wh_per_km": 5.763,
+  "range_km": 76.04,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.699,
+  "availability": 0.854,
+  "reputation": 0.832,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs272"
+ },
+ {
+  "id": "d15",
+  "payload": 1.22,
+  "empty_mass": 5.39,
+  "battery": 347.6,
+  "wh_per_km": 4.133,
+  "range_km": 84.1,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.391,
+  "availability": 0.903,
+  "reputation": 0.669,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs250"
+ },
+ {
+  "id": "d16",
+  "payload": 2.57,
+  "empty_mass": 4.14,
+  "battery": 302.2,
+  "wh_per_km": 5.525,
+  "range_km": 54.7,
+  "speed_kmh": 65.0,
+  "cost_per_km": 1.082,
+  "availability": 0.934,
+  "reputation": 0.608,
+  "supported_pads": [
+   "fixed",
+   "wireless"
+  ],
+  "home_station": "rs214"
+ },
+ {
+  "id": "d17",
+  "payload": 2.33,
+  "empty_mass": 2.8,
+  "battery": 271.9,
+  "wh_per_km": 4.838,
+  "range_km": 56.2,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.461,
+  "availability": 0.863,
+  "reputation": 0.95,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs42"
+ },
+ {
+  "id": "d18",
+  "payload": 0.82,
+  "empty_mass": 2.64,
+  "battery": 288.1,
+  "wh_per_km": 6.957,
+  "range_km": 41.41,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.843,
+  "availability": 0.972,
+  "reputation": 0.882,
+  "supported_pads": [
+   "fixed",
+   "mobile"
+  ],
+  "home_station": "rs74"
+ },
+ {
+  "id": "d19",
+  "payload": 1.41,
+  "empty_mass": 5.35,
+  "battery": 408.2,
+  "wh_per_km": 4.131,
+  "range_km": 98.81,
+  "speed_kmh": 65.0,
+  "cost_per_km": 1.0,
+  "availability": 0.932,
+  "reputation": 0.736,
+  "supported_pads": [
+   "fixed",
+   "wireless"
+  ],
+  "home_station": "rs161"
+ },
+ {
+  "id": "d20",
+  "payload": 2.01,
+  "empty_mass": 3.61,
+  "battery": 486.7,
+  "wh_per_km": 6.929,
+  "range_km": 70.24,
+  "speed_kmh": 65.0,
+  "cost_per_km": 1.146,
+  "availability": 0.921,
+  "reputation": 0.873,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs51"
+ },
+ {
+  "id": "d21",
+  "payload": 2.71,
+  "empty_mass": 3.76,
+  "battery": 216.5,
+  "wh_per_km": 4.639,
+  "range_km": 46.67,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.322,
+  "availability": 0.93,
+  "reputation": 0.699,
+  "supported_pads": [
+   "fixed",
+   "mobile"
+  ],
+  "home_station": "rs298"
+ },
+ {
+  "id": "d22",
+  "payload": 2.66,
+  "empty_mass": 3.16,
+  "battery": 437.4,
+  "wh_per_km": 4.002,
+  "range_km": 109.3,
+  "speed_kmh": 65.0,
+  "cost_per_km": 1.009,
+  "availability": 0.854,
+  "reputation": 0.786,
+  "supported_pads": [
+   "fixed",
+   "mobile"
+  ],
+  "home_station": "rs247"
+ },
+ {
+  "id": "d23",
+  "payload": 1.4,
+  "empty_mass": 2.45,
+  "battery": 303.8,
+  "wh_per_km": 4.909,
+  "range_km": 61.89,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.74,
+  "availability": 0.889,
+  "reputation": 0.944,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs47"
+ },
+ {
+  "id": "d24",
+  "payload": 1.71,
+  "empty_mass": 5.52,
+  "battery": 372.2,
+  "wh_per_km": 4.649,
+  "range_km": 80.06,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.457,
+  "availability": 0.989,
+  "reputation": 0.758,
+  "supported_pads": [
+   "fixed",
+   "mobile"
+  ],
+  "home_station": "rs98"
+ },
+ {
+  "id": "d25",
+  "payload": 2.87,
+  "empty_mass": 3.62,
+  "battery": 353.2,
+  "wh_per_km": 5.864,
+  "range_km": 60.23,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.625,
+  "availability": 0.962,
+  "reputation": 0.716,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs234"
+ },
+ {
+  "id": "d26",
+  "payload": 1.66,
+  "empty_mass": 2.97,
+  "battery": 406.6,
+  "wh_per_km": 6.56,
+  "range_km": 61.98,
+  "speed_kmh": 65.0,
+  "cost_per_km": 1.107,
+  "availability": 0.949,
+  "reputation": 0.749,
+  "supported_pads": [
+   "fixed",
+   "mobile"
+  ],
+  "home_station": "rs118"
+ },
+ {
+  "id": "d27",
+  "payload": 2.24,
+  "empty_mass": 5.82,
+  "battery": 250.9,
+  "wh_per_km": 5.808,
+  "range_km": 43.2,
+  "speed_kmh": 65.0,
+  "cost_per_km": 1.165,
+  "availability": 0.855,
+  "reputation": 0.654,
+  "supported_pads": [
+   "fixed",
+   "wireless"
+  ],
+  "home_station": "rs271"
+ },
+ {
+  "id": "d28",
+  "payload": 1.27,
+  "empty_mass": 5.66,
+  "battery": 414.9,
+  "wh_per_km": 6.722,
+  "range_km": 61.72,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.847,
+  "availability": 0.885,
+  "reputation": 0.823,
+  "supported_pads": [
+   "fixed",
+   "mobile"
+  ],
+  "home_station": "rs1"
+ },
+ {
+  "id": "d29",
+  "payload": 1.94,
+  "empty_mass": 2.91,
+  "battery": 481.3,
+  "wh_per_km": 5.402,
+  "range_km": 89.1,
+  "speed_kmh": 65.0,
+  "cost_per_km": 1.02,
+  "availability": 0.916,
+  "reputation": 0.916,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs243"
+ },
+ {
+  "id": "d30",
+  "payload": 2.63,
+  "empty_mass": 3.7,
+  "battery": 331.5,
+  "wh_per_km": 5.049,
+  "range_km": 65.66,
+  "speed_kmh": 65.0,
+  "cost_per_km": 0.536,
+  "availability": 0.904,
+  "reputation": 0.78,
+  "supported_pads": [
+   "mobile",
+   "wireless"
+  ],
+  "home_station": "rs8"
+ }
+]
