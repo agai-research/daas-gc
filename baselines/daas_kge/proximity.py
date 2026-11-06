@@ -1,6 +1,5 @@
 """Extraction of candidate drones and stations from the DaaSKG embedding
-space (DaaS_KGE-1.pdf, Section 5.1 "Extraction of candidate drones and
-stations"). Proximity to the delivery source/target stations is used to
+space. Proximity to the delivery source/target stations is used to
 restrict the search to a high-proximity vector subspace, avoiding a full
 re-exploration of the sky network.
 """
