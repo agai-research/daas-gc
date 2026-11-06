@@ -1,7 +1,5 @@
 """Build DaaS-GC dataset instances (sky network + drone fleet + DaaS catalog).
 
-Matches Table "Dataset and variable settings" of the paper:
-
 * stations in [50, 300]; skyway segments = the SEGMENT_DENSITY share of the
   closest station pairs, i.e. round(0.2 * n(n-1)/2) segments
   -> 245 segments for 50 stations ... 8 970 for 300 stations;
