@@ -1,0 +1,6 @@
+# Exact versions used to produce results/ and figures/ (Python 3.12.3).
+networkx==3.7
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+gensim==4.4.0
