@@ -1,4 +1,4 @@
-"""Build every dataset instance used by the experiments (deterministic).
+"""Build every dataset instance used by the experiments.
 
 Sizes: stations in {50, 100, 150, 200, 250, 300} x drones in {10, 20, 30}.
 Each instance folder s<stations>_d<drones> is fully determined by
