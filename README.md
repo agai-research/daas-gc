@@ -137,9 +137,3 @@ python daasgc.py --stations 100 --drones 20 --method DaaS-GC --k 5 --payload 300
 python tests/first_test.py                 # smoke test
 python tests/test_k1_consistency.py        # k = 1 ≡ DaaS-SG, SCAN invariant
 ```
-
-All results except computation times are bit-identical across runs, machines' hash seeds and
-processes (gensim uses a deterministic hash function and a single worker). After a run, `git status`
-lists `results/` and `figures/` as modified: the JSON files also record each query's computation
-time, and PNG rendering (font anti-aliasing) can differ slightly between systems. All other values are
-unchanged; `git checkout -- results figures` restores the committed versions.
