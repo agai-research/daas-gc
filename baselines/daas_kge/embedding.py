@@ -1,4 +1,4 @@
-"""Metapath2vec embedding of the DaaSKG (DaaS_KGE-1.pdf, Sections 5.1.2/5.1.3).
+"""Metapath2vec embedding of the DaaSKG.
 
 Guided random walks follow a predefined meta-path of typed nodes; the
 resulting node sequences are fed to Skip-Gram (gensim Word2Vec, sg=1) to
@@ -6,7 +6,7 @@ learn low-dimensional embeddings. Meta-paths default to the ones named in
 DaaS-GC.tex Section 7 ("we used [S]+, [D]+ and D-S-D as the guiding
 meta-paths"); walk count, walk length, window size and embedding
 dimension are all configurable (never hardcoded), matching the
-sensitivity study of DaaS_KGE-1.pdf (walks in [1,5], length in [2,4],
+sensitivity study of DaaS_KGE (walks in [1,5], length in [2,4],
 window in [2,5], dimension in [64,512]).
 """
 
